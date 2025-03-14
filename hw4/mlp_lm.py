@@ -14,6 +14,7 @@ from typing import List
 
 torch.manual_seed(42)
 random.seed(42)
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 
 def load_data_mlp_lm():
@@ -56,6 +57,8 @@ def preprocess_data(data, local_window_size, splitter, tokenizer):
                 # TODO: Select a subset of token_ids from idx -> idx + local_window_size as input and put it to x
                 # Select a subset of token_ids from idx -> idx + local_window_size as input and put it to x: list of context token_ids
                 # Then select the word immediately after this window as output and put it to y: the target next token_id
+                x_data.append(token_ids[idx:idx+local_window_size])
+                y_data.append(token_ids[idx+local_window_size])
 
     # making tensors
     x_data = torch.LongTensor(x_data)
@@ -81,13 +84,17 @@ class NPLMFirstBlock(nn.Module):
         # looking up the word embeddings from self.embeddings()
         # And concatenating them
         # Note this is done for a batch of instances.
+        x = self.embeddings(inputs).view(inputs.size(0), -1)
 
         # Transform embeddings with a linear layer and tanh activation
+        x = nn.functional.tanh(self.linear(x))
 
         # apply layer normalization
+        x = self.layer_norm(x)
 
         # apply dropout
-        
+        final_embeds = self.dropout(x)
+
         # your code ends here
 
         return final_embeds
@@ -105,13 +112,17 @@ class NPLMBlock(nn.Module):
     def forward(self, inputs):
         # TODO: implement the forward pass
         # apply linear transformation and tanh activation
+        x = nn.functional.tanh(self.linear(inputs))
 
         # add residual connection
+        x = inputs + x
 
         # apply layer normalization
+        x = self.layer_norm(x)
 
         # apply dropout
-        
+        final_inputs = self.dropout(x)
+
         # your code ends here
 
         return final_inputs
@@ -126,8 +137,10 @@ class NPLMFinalBlock(nn.Module):
     def forward(self, inputs):
         # TODO: implement the forward pass
         # apply linear transformation
+        x = self.linear(inputs)
 
         # apply log_softmax to get log-probabilities (logits)
+        log_probs = nn.functional.log_softmax(x, dim=1)
         
         # your code ends here
 
@@ -143,7 +156,8 @@ class NPLM(nn.Module):
         self.intermediate_layers = nn.ModuleList()
 
         # TODO: create num_blocks of NPLMBlock as intermediate layers
-        
+        for _ in range(num_blocks):
+            self.intermediate_layers.append(NPLMBlock(hidden_dim, dropout_p))
         # your code ends here
 
         self.final_layer = NPLMFinalBlock(vocab_size, hidden_dim)
@@ -151,12 +165,18 @@ class NPLM(nn.Module):
     def forward(self, inputs):
         # TODO: implement the forward pass
         # input layer
+        if inputs.ndim < 2:
+            inputs = inputs.unsqueeze(0)
+        x = self.first_layer(inputs)
 
         # multiple middle layers
         # remember to apply the ReLU activation function after each layer
+        for layer in self.intermediate_layers:
+            x = nn.functional.relu(layer(x))
 
         # output layer
-        
+        log_probs = self.final_layer(x)
+
         # your code ends here
 
         return log_probs
@@ -164,6 +184,8 @@ class NPLM(nn.Module):
 
 def test_model_forward(model, sample, local_window_size, tokenizer):
     inp, target = sample
+    inp = inp.to(device)
+    target = target.to(device)
 
     log_probs = model(inp)
 
@@ -192,6 +214,8 @@ def train(model, train_dataloader, dev_dataloader, criterion, optimizer, schedul
         print(f"{'-' * 10} Epoch {epoch}: Training {'-' * 10}")
         for idx, batch in tqdm(enumerate(train_dataloader)):
             inp, target = batch
+            inp = inp.to(device)
+            target = target.to(device)
 
             # get log probabilities over next words
             log_probs = model(inp)
@@ -202,6 +226,7 @@ def train(model, train_dataloader, dev_dataloader, criterion, optimizer, schedul
             # TODO extract perplexity
             # remember the connection between perplexity and cross-entropy loss
             # name the perplexity result as 'ppl'
+            ppl = 2 ** loss.detach()
 
             # backward pass and update gradient
             loss.backward()
@@ -243,12 +268,15 @@ def evaluate(model, eval_dataloader, criterion):
     with torch.no_grad():  # turn off gradient calculation because we want to evaluate the model
         for idx, batch in tqdm(enumerate(eval_dataloader)):
             inp, target = batch
+            inp = inp.to(device)
+            target = target.to(device)
             log_probs = model(inp)
             loss += criterion(log_probs, target).item()
             count += 1
     avg_loss = loss / count
     # TODO: compute perplexity
     # name the perplexity result as 'avg_ppl'
+    avg_ppl = 2 ** avg_loss
     
     return avg_loss, avg_ppl
 
@@ -317,7 +345,7 @@ def run_mlp_lm(config, train_data, dev_data):
     # create model
     print(f"{'-' * 10} Create Model {'-' * 10}")
     model = NPLM(tokenizer.vocab_size, config.embed_dim, config.local_window_size, config.hidden_dim, config.num_blocks,
-                 config.dropout_p)
+                 config.dropout_p).to(device)
     model_parameters = filter(lambda p: p.requires_grad, model.parameters())
     params = sum([np.prod(p.size()) for p in model_parameters])
     print(f"{'-' * 10} # of parameters: {params} {'-' * 10}")
@@ -342,7 +370,7 @@ def run_mlp_lm(config, train_data, dev_data):
 def sample_from_mlp_lm(config, dev_data):
     tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
     model = NPLM(tokenizer.vocab_size, config.embed_dim, config.local_window_size, config.hidden_dim, config.num_blocks,
-                 config.dropout_p)
+                 config.dropout_p).to(device)
     print(f"{'-' * 10} Load Model Weights {'-' * 10}")
     model.load_state_dict(torch.load(config.save_path))
     model.eval()
@@ -355,6 +383,7 @@ def sample_from_mlp_lm(config, dev_data):
     dev_loss, dev_ppl = evaluate(model, dev_dataloader, criterion=nn.NLLLoss())
     print(f"Dev Perplexity: {dev_ppl}; Dev Loss: {dev_loss}")
 
+    model = model.cpu()
     prompt = "The best perks of living on the east"
 
     print(f"{'-' * 10} Sample From the Model {'-' * 10}")

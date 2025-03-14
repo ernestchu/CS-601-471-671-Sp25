@@ -49,6 +49,7 @@ def create_ngrams(data, n, splitter, tokenizer):
             # TODO: tokenize the words in the sentence
             # name the list of tokens as 'tokens'
             
+            tokens = tokenizer.tokenize(sentence)
             # Your code ends here
 
             # drop short sentences
@@ -66,10 +67,10 @@ def create_ngrams(data, n, splitter, tokenizer):
                 #   and its occurrence count as values
                 # - 'next_word_candidates' is a dictionary with tuple of the context
                 #   (i.e. the (n-1)-grams) as keys and a set of possible next words as values
-                
 
-
-
+                ngrams[tuple(tokens[idx:idx+n])] += 1
+                ngram_context[tuple(tokens[idx:idx+n-1])] += 1
+                next_word_candidates[tuple(tokens[idx:idx+n-1])].add(tokens[idx+n-1])
                 # Your code ends here
 
     # Sort all the next word candidates
@@ -89,9 +90,8 @@ def create_ngrams(data, n, splitter, tokenizer):
         for nw in next_words:
             # TODO: compute the estimated probability of the next word given the context
             # hint: use the counters 'ngrams' and 'ngram_context' you have created above
-            
 
-
+            scores.append(ngrams[context + (nw,)] / ngram_context[context])
             # Your code ends here
 
         # record the most probable next word as the prediction
@@ -124,6 +124,17 @@ def plot_next_word_prob(word_scores, word_candidates, context, top=10, save_path
     # - for a given context, elements in word_scores[context] and word_candidates[context] have one-to-one correspondence
     # - context is a tuple of words
 
+    scores = word_scores[context]
+    top_idx = scores.argsort()[-top:]
+    top_scores = scores[top_idx]
+    top_candidates = np.array(word_candidates[context])[top_idx]
+
+    plt.clf()
+    plt.bar(top_candidates, top_scores)
+    plt.title(f'Top {top} word candidates following {context}')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig(save_path)
     # Your code ends here
 
 

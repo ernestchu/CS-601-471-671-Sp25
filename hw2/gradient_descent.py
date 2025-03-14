@@ -58,6 +58,11 @@ def featurize(sentence: str, embeddings: gensim.models.keyedvectors.KeyedVectors
     # A torch tensor of shape (embed_dim,) - the average word embedding of the sentence
     # Hint: follow the hints in the pdf description
 
+    if vectors:
+        return torch.from_numpy(np.stack(vectors)).mean(0)
+    else:
+        return None
+
 def create_tensor_dataset(raw_data: Dict[str, List[Union[int, str]]],
                           embeddings: gensim.models.keyedvectors.KeyedVectors) -> TensorDataset:
     all_features, all_labels = [], []
@@ -65,9 +70,10 @@ def create_tensor_dataset(raw_data: Dict[str, List[Union[int, str]]],
 
         # TODO (Copy from your HW1): complete the for loop to featurize each sentence
         # only add the feature and label to the list if the feature is not None
-        
-
-
+        feature = featurize(text, embeddings)
+        if feature is not None:
+            all_features.append(feature)
+            all_labels.append(label)
         # your code ends here
 
     # stack all features and labels into two single tensors and create a TensorDataset
@@ -87,17 +93,18 @@ class SentimentClassifier(nn.Module):
         self.embed_dim = embed_dim
         self.num_classes = num_classes
 
-        # TODO (Copy from your HW1): define the linear layer
+        # TODO: define the linear layer
         # Hint: follow the hints in the pdf description
-        
+        self.linear = nn.Linear(embed_dim, num_classes)
         # your code ends here
+
+        self.loss = nn.CrossEntropyLoss(reduction='mean')
 
     def forward(self, inp):
 
         # TODO (Copy from your HW1): complete the forward function
         # Hint: follow the hints in the pdf description
-        
-
+        logits = self.linear(inp)
         # your code ends here
 
         return logits
@@ -108,9 +115,9 @@ class SentimentClassifier(nn.Module):
         # Hint: follow the hints in the pdf description
         # - logits is a tensor of shape (batch_size, num_classes)
         # - return a tensor of shape (batch_size, num_classes) with the softmax of the logits
-        
 
-
+        exp_logits = (logits - logits.max(1, keepdim=True)[0]).exp()  # For numerical stability
+        return exp_logits / exp_logits.sum(-1, keepdim=True)
         # your code ends here
 
     # The function that perform backward pass
@@ -123,13 +130,22 @@ class SentimentClassifier(nn.Module):
         # - grads_weights: a tensor of shape (num_classes, embed_dim) that is the gradient of linear layer's weights
         # - grads_bias: a tensor of shape (num_classes,) that is the gradient of linear layer's bias
         # - loss: a scalar that is the cross entropy loss, averaged over the batch
-        
 
+        with torch.no_grad():
+            # Convert labels to one-hot encoding
+            B, C = logits.shape
+            labels_one_hot = torch.zeros(B, C, device=logits.device)
+            labels_one_hot.scatter_(1, labels[:, None], 1)
 
+            # Convert logits to probabilities using softmax
+            probs = SentimentClassifier.softmax(logits)
 
+            # Computer Cross Entropy loss
+            loss = -(labels_one_hot * (probs + 1e-9).log()).sum(1).mean()
 
-
-
+            # Compute gradients
+            grads_weights = torch.bmm(inp[:, :, None], (probs - labels_one_hot)[:, None]).mean(0).T
+            grads_bias = (probs - labels_one_hot).mean(0)
         # your code ends here
 
         return grads_weights, grads_bias, loss
@@ -140,6 +156,7 @@ def accuracy(logits: torch.FloatTensor , labels: torch.LongTensor) -> torch.Floa
     # Hint: follow the hints in the pdf description, the return should be a tensor of 0s and 1s with the same shape as labels
     # labels is a tensor of shape (batch_size,)
     # logits is a tensor of shape (batch_size, num_classes)
+    return (logits.argmax(1) == labels) * 1.
 
 def evaluate(model: SentimentClassifier, eval_dataloader: DataLoader) -> Tuple[float, float]:
     model.eval()
@@ -184,9 +201,9 @@ def train(model: SentimentClassifier,
             # since we are doing gradient descent manually
             with torch.no_grad():
                 # TODO: complete the gradient descent update for the linear layer's weights and bias
-                
 
-
+                model.linear.weight -= learning_rate * grads_weights
+                model.linear.bias -= learning_rate * grads_bias
                 # your code ends here
 
             # record the loss and accuracy
