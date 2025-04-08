@@ -101,8 +101,10 @@ def evaluate_model(model, dataloader, device):
 
         # forward pass
         # name the output as `output`
-        
+        input_ids = batch['input_ids'].to(device)
+        attention_mask = batch['attention_mask'].to(device)
 
+        output = model(input_ids, attention_mask)
         # your code ends here
 
         predictions = output.logits
@@ -178,8 +180,16 @@ def train(mymodel, num_epochs, train_dataloader, validation_dataloader, test_dat
             # forward pass
             # name the output as `output`
             # Hints: refer to the evaluate_model function on how to get the predictions (logits)
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            labels = batch['labels'].to(device)
 
-           
+            output = mymodel(input_ids, attention_mask, labels=labels)
+            optimizer.zero_grad()
+            output.loss.backward()
+            optimizer.step()
+            lr_scheduler.step()
+            predictions = output.logits
             # your code ends here
 
             predictions = torch.argmax(predictions, dim=1)

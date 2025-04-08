@@ -1,0 +1,18 @@
+1e-4 7
+ - Average DEV metrics: accuracy={'accuracy': 0.6217125382262997}
+ - Average TEST metrics: accuracy={'accuracy': 0.6124737210932025}
+5e-4 7
+ - Average DEV metrics: accuracy={'accuracy': 0.6217125382262997}
+ - Average TEST metrics: accuracy={'accuracy': 0.6082690960056062}
+1e-3 7
+ - Average DEV metrics: accuracy={'accuracy': 0.6217125382262997}
+ - Average TEST metrics: accuracy={'accuracy': 0.5942536790469517}
+1e-4 9
+ - Average DEV metrics: accuracy={'accuracy': 0.6217125382262997}
+ - Average TEST metrics: accuracy={'accuracy': 0.6201822004204625}
+5e-4 9
+ - Average DEV metrics: accuracy={'accuracy': 0.6217125382262997}
+ - Average TEST metrics: accuracy={'accuracy': 0.6384022424667134}
+1e-3 9
+ - Average DEV metrics: accuracy={'accuracy': 0.6217125382262997}
+ - Average TEST metrics: accuracy={'accuracy': 0.6145760336370008}
