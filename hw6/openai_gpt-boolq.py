@@ -66,3 +66,4 @@ for test in tests:
 print()
 print(f"Accuracy: {sum(results) / len(results)}")
 
+
