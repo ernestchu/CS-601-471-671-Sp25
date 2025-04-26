@@ -1,0 +1,1031 @@
+Calculating reference log probabilities...
+Processing batch 1/2507Processing batch 2/2507Processing batch 3/2507Processing batch 4/2507Processing batch 5/2507Processing batch 6/2507Processing batch 7/2507Processing batch 8/2507Processing batch 9/2507Processing batch 10/2507Processing batch 11/2507Processing batch 12/2507Processing batch 13/2507Processing batch 14/2507Processing batch 15/2507Processing batch 16/2507Processing batch 17/2507Processing batch 18/2507Processing batch 19/2507Processing batch 20/2507Processing batch 21/2507Processing batch 22/2507Processing batch 23/2507Processing batch 24/2507Processing batch 25/2507Processing batch 26/2507Processing batch 27/2507Processing batch 28/2507Processing batch 29/2507Processing batch 30/2507Processing batch 31/2507Processing batch 32/2507Processing batch 33/2507Processing batch 34/2507Processing batch 35/2507Processing batch 36/2507Processing batch 37/2507Processing batch 38/2507Processing batch 39/2507Processing batch 40/2507Processing batch 41/2507Processing batch 42/2507Processing batch 43/2507Processing batch 44/2507Processing batch 45/2507Processing batch 46/2507Processing batch 47/2507Processing batch 48/2507Processing batch 49/2507Processing batch 50/2507Processing batch 51/2507Processing batch 52/2507Processing batch 53/2507Processing batch 54/2507Processing batch 55/2507Processing batch 56/2507Processing batch 57/2507Processing batch 58/2507Processing batch 59/2507Processing batch 60/2507Processing batch 61/2507Processing batch 62/2507Processing batch 63/2507Processing batch 64/2507Processing batch 65/2507Processing batch 66/2507Processing batch 67/2507Processing batch 68/2507Processing batch 69/2507Processing batch 70/2507Processing batch 71/2507Processing batch 72/2507Processing batch 73/2507Processing batch 74/2507Processing batch 75/2507Processing batch 76/2507Processing batch 77/2507Processing batch 78/2507Processing batch 79/2507Processing batch 80/2507Processing batch 81/2507Processing batch 82/2507Processing batch 83/2507Processing batch 84/2507Processing batch 85/2507Processing batch 86/2507Processing batch 87/2507Processing batch 88/2507Processing batch 89/2507Processing batch 90/2507Processing batch 91/2507Processing batch 92/2507Processing batch 93/2507Processing batch 94/2507Processing batch 95/2507Processing batch 96/2507Processing batch 97/2507Processing batch 98/2507Processing batch 99/2507Processing batch 100/2507Processing batch 101/2507Processing batch 102/2507Processing batch 103/2507Processing batch 104/2507Processing batch 105/2507Processing batch 106/2507Processing batch 107/2507Processing batch 108/2507Processing batch 109/2507Processing batch 110/2507Processing batch 111/2507Processing batch 112/2507Processing batch 113/2507Processing batch 114/2507Processing batch 115/2507Processing batch 116/2507Processing batch 117/2507Processing batch 118/2507Processing batch 119/2507Processing batch 120/2507Processing batch 121/2507Processing batch 122/2507Processing batch 123/2507Processing batch 124/2507Processing batch 125/2507Processing batch 126/2507Processing batch 127/2507Processing batch 128/2507Processing batch 129/2507Processing batch 130/2507Processing batch 131/2507Processing batch 132/2507Processing batch 133/2507Processing batch 134/2507Processing batch 135/2507Processing batch 136/2507Processing batch 137/2507Processing batch 138/2507Processing batch 139/2507Processing batch 140/2507Processing batch 141/2507Processing batch 142/2507Processing batch 143/2507Processing batch 144/2507Processing batch 145/2507Processing batch 146/2507Processing batch 147/2507Processing batch 148/2507Processing batch 149/2507Processing batch 150/2507Processing batch 151/2507Processing batch 152/2507Processing batch 153/2507Processing batch 154/2507Processing batch 155/2507Processing batch 156/2507Processing batch 157/2507Processing batch 158/2507Processing batch 159/2507Processing batch 160/2507Processing batch 161/2507Processing batch 162/2507Processing batch 163/2507Processing batch 164/2507Processing batch 165/2507Processing batch 166/2507Processing batch 167/2507Processing batch 168/2507Processing batch 169/2507Processing batch 170/2507Processing batch 171/2507Processing batch 172/2507Processing batch 173/2507Processing batch 174/2507Processing batch 175/2507Processing batch 176/2507Processing batch 177/2507Processing batch 178/2507Processing batch 179/2507Processing batch 180/2507Processing batch 181/2507Processing batch 182/2507Processing batch 183/2507Processing batch 184/2507Processing batch 185/2507Processing batch 186/2507Processing batch 187/2507Processing batch 188/2507Processing batch 189/2507Processing batch 190/2507Processing batch 191/2507Processing batch 192/2507Processing batch 193/2507Processing batch 194/2507Processing batch 195/2507Processing batch 196/2507Processing batch 197/2507Processing batch 198/2507Processing batch 199/2507Processing batch 200/2507Processing batch 201/2507Processing batch 202/2507Processing batch 203/2507Processing batch 204/2507Processing batch 205/2507Processing batch 206/2507Processing batch 207/2507Processing batch 208/2507Processing batch 209/2507Processing batch 210/2507Processing batch 211/2507Processing batch 212/2507Processing batch 213/2507Processing batch 214/2507Processing batch 215/2507Processing batch 216/2507Processing batch 217/2507Processing batch 218/2507Processing batch 219/2507Processing batch 220/2507Processing batch 221/2507Processing batch 222/2507Processing batch 223/2507Processing batch 224/2507Processing batch 225/2507Processing batch 226/2507Processing batch 227/2507Processing batch 228/2507Processing batch 229/2507Processing batch 230/2507Processing batch 231/2507Processing batch 232/2507Processing batch 233/2507Processing batch 234/2507Processing batch 235/2507Processing batch 236/2507Processing batch 237/2507Processing batch 238/2507Processing batch 239/2507Processing batch 240/2507Processing batch 241/2507Processing batch 242/2507Processing batch 243/2507Processing batch 244/2507Processing batch 245/2507Processing batch 246/2507Processing batch 247/2507Processing batch 248/2507Processing batch 249/2507Processing batch 250/2507Processing batch 251/2507Processing batch 252/2507Processing batch 253/2507Processing batch 254/2507Processing batch 255/2507Processing batch 256/2507Processing batch 257/2507Processing batch 258/2507Processing batch 259/2507Processing batch 260/2507Processing batch 261/2507Processing batch 262/2507Processing batch 263/2507Processing batch 264/2507Processing batch 265/2507Processing batch 266/2507Processing batch 267/2507Processing batch 268/2507Processing batch 269/2507Processing batch 270/2507Processing batch 271/2507Processing batch 272/2507Processing batch 273/2507Processing batch 274/2507Processing batch 275/2507Processing batch 276/2507Processing batch 277/2507Processing batch 278/2507Processing batch 279/2507Processing batch 280/2507Processing batch 281/2507Processing batch 282/2507Processing batch 283/2507Processing batch 284/2507Processing batch 285/2507Processing batch 286/2507Processing batch 287/2507Processing batch 288/2507Processing batch 289/2507Processing batch 290/2507Processing batch 291/2507Processing batch 292/2507Processing batch 293/2507Processing batch 294/2507Processing batch 295/2507Processing batch 296/2507Processing batch 297/2507Processing batch 298/2507Processing batch 299/2507Processing batch 300/2507Processing batch 301/2507Processing batch 302/2507Processing batch 303/2507Processing batch 304/2507Processing batch 305/2507Processing batch 306/2507Processing batch 307/2507Processing batch 308/2507Processing batch 309/2507Processing batch 310/2507Processing batch 311/2507Processing batch 312/2507Processing batch 313/2507Processing batch 314/2507Processing batch 315/2507Processing batch 316/2507Processing batch 317/2507Processing batch 318/2507Processing batch 319/2507Processing batch 320/2507Processing batch 321/2507Processing batch 322/2507Processing batch 323/2507Processing batch 324/2507Processing batch 325/2507Processing batch 326/2507Processing batch 327/2507Processing batch 328/2507Processing batch 329/2507Processing batch 330/2507Processing batch 331/2507Processing batch 332/2507Processing batch 333/2507Processing batch 334/2507Processing batch 335/2507Processing batch 336/2507Processing batch 337/2507Processing batch 338/2507Processing batch 339/2507Processing batch 340/2507Processing batch 341/2507Processing batch 342/2507Processing batch 343/2507Processing batch 344/2507Processing batch 345/2507Processing batch 346/2507Processing batch 347/2507Processing batch 348/2507Processing batch 349/2507Processing batch 350/2507Processing batch 351/2507Processing batch 352/2507Processing batch 353/2507Processing batch 354/2507Processing batch 355/2507Processing batch 356/2507Processing batch 357/2507Processing batch 358/2507Processing batch 359/2507Processing batch 360/2507Processing batch 361/2507Processing batch 362/2507Processing batch 363/2507Processing batch 364/2507Processing batch 365/2507Processing batch 366/2507Processing batch 367/2507Processing batch 368/2507Processing batch 369/2507Processing batch 370/2507Processing batch 371/2507Processing batch 372/2507Processing batch 373/2507Processing batch 374/2507Processing batch 375/2507Processing batch 376/2507Processing batch 377/2507Processing batch 378/2507Processing batch 379/2507Processing batch 380/2507Processing batch 381/2507Processing batch 382/2507Processing batch 383/2507Processing batch 384/2507Processing batch 385/2507Processing batch 386/2507Processing batch 387/2507Processing batch 388/2507Processing batch 389/2507Processing batch 390/2507Processing batch 391/2507Processing batch 392/2507Processing batch 393/2507Processing batch 394/2507Processing batch 395/2507Processing batch 396/2507Processing batch 397/2507Processing batch 398/2507Processing batch 399/2507Processing batch 400/2507Processing batch 401/2507Processing batch 402/2507Processing batch 403/2507Processing batch 404/2507Processing batch 405/2507Processing batch 406/2507Processing batch 407/2507Processing batch 408/2507Processing batch 409/2507Processing batch 410/2507Processing batch 411/2507Processing batch 412/2507Processing batch 413/2507Processing batch 414/2507Processing batch 415/2507Processing batch 416/2507Processing batch 417/2507Processing batch 418/2507Processing batch 419/2507Processing batch 420/2507Processing batch 421/2507Processing batch 422/2507Processing batch 423/2507Processing batch 424/2507Processing batch 425/2507Processing batch 426/2507Processing batch 427/2507Processing batch 428/2507Processing batch 429/2507Processing batch 430/2507Processing batch 431/2507Processing batch 432/2507Processing batch 433/2507Processing batch 434/2507Processing batch 435/2507Processing batch 436/2507Processing batch 437/2507Processing batch 438/2507Processing batch 439/2507Processing batch 440/2507Processing batch 441/2507Processing batch 442/2507Processing batch 443/2507Processing batch 444/2507Processing batch 445/2507Processing batch 446/2507Processing batch 447/2507Processing batch 448/2507Processing batch 449/2507Processing batch 450/2507Processing batch 451/2507Processing batch 452/2507Processing batch 453/2507Processing batch 454/2507Processing batch 455/2507Processing batch 456/2507Processing batch 457/2507Processing batch 458/2507Processing batch 459/2507Processing batch 460/2507Processing batch 461/2507Processing batch 462/2507Processing batch 463/2507Processing batch 464/2507Processing batch 465/2507Processing batch 466/2507Processing batch 467/2507Processing batch 468/2507Processing batch 469/2507Processing batch 470/2507Processing batch 471/2507Processing batch 472/2507Processing batch 473/2507Processing batch 474/2507Processing batch 475/2507Processing batch 476/2507Processing batch 477/2507Processing batch 478/2507Processing batch 479/2507Processing batch 480/2507Processing batch 481/2507Processing batch 482/2507Processing batch 483/2507Processing batch 484/2507Processing batch 485/2507Processing batch 486/2507Processing batch 487/2507Processing batch 488/2507Processing batch 489/2507Processing batch 490/2507Processing batch 491/2507Processing batch 492/2507Processing batch 493/2507Processing batch 494/2507Processing batch 495/2507Processing batch 496/2507Processing batch 497/2507Processing batch 498/2507Processing batch 499/2507Processing batch 500/2507Processing batch 501/2507Processing batch 502/2507Processing batch 503/2507Processing batch 504/2507Processing batch 505/2507Processing batch 506/2507Processing batch 507/2507Processing batch 508/2507Processing batch 509/2507Processing batch 510/2507Processing batch 511/2507Processing batch 512/2507Processing batch 513/2507Processing batch 514/2507Processing batch 515/2507Processing batch 516/2507Processing batch 517/2507Processing batch 518/2507Processing batch 519/2507Processing batch 520/2507Processing batch 521/2507Processing batch 522/2507Processing batch 523/2507Processing batch 524/2507Processing batch 525/2507Processing batch 526/2507Processing batch 527/2507Processing batch 528/2507Processing batch 529/2507Processing batch 530/2507Processing batch 531/2507Processing batch 532/2507Processing batch 533/2507Processing batch 534/2507Processing batch 535/2507Processing batch 536/2507Processing batch 537/2507Processing batch 538/2507Processing batch 539/2507Processing batch 540/2507Processing batch 541/2507Processing batch 542/2507Processing batch 543/2507Processing batch 544/2507Processing batch 545/2507Processing batch 546/2507Processing batch 547/2507Processing batch 548/2507Processing batch 549/2507Processing batch 550/2507Processing batch 551/2507Processing batch 552/2507Processing batch 553/2507Processing batch 554/2507Processing batch 555/2507Processing batch 556/2507Processing batch 557/2507Processing batch 558/2507Processing batch 559/2507Processing batch 560/2507Processing batch 561/2507Processing batch 562/2507Processing batch 563/2507Processing batch 564/2507Processing batch 565/2507Processing batch 566/2507Processing batch 567/2507Processing batch 568/2507Processing batch 569/2507Processing batch 570/2507Processing batch 571/2507Processing batch 572/2507Processing batch 573/2507Processing batch 574/2507Processing batch 575/2507Processing batch 576/2507Processing batch 577/2507Processing batch 578/2507Processing batch 579/2507Processing batch 580/2507Processing batch 581/2507Processing batch 582/2507Processing batch 583/2507Processing batch 584/2507Processing batch 585/2507Processing batch 586/2507Processing batch 587/2507Processing batch 588/2507Processing batch 589/2507Processing batch 590/2507Processing batch 591/2507Processing batch 592/2507Processing batch 593/2507Processing batch 594/2507Processing batch 595/2507Processing batch 596/2507Processing batch 597/2507Processing batch 598/2507Processing batch 599/2507Processing batch 600/2507Processing batch 601/2507Processing batch 602/2507Processing batch 603/2507Processing batch 604/2507Processing batch 605/2507Processing batch 606/2507Processing batch 607/2507Processing batch 608/2507Processing batch 609/2507Processing batch 610/2507Processing batch 611/2507Processing batch 612/2507Processing batch 613/2507Processing batch 614/2507Processing batch 615/2507Processing batch 616/2507Processing batch 617/2507Processing batch 618/2507Processing batch 619/2507Processing batch 620/2507Processing batch 621/2507Processing batch 622/2507Processing batch 623/2507Processing batch 624/2507Processing batch 625/2507Processing batch 626/2507Processing batch 627/2507Processing batch 628/2507Processing batch 629/2507Processing batch 630/2507Processing batch 631/2507Processing batch 632/2507Processing batch 633/2507Processing batch 634/2507Processing batch 635/2507Processing batch 636/2507Processing batch 637/2507Processing batch 638/2507Processing batch 639/2507Processing batch 640/2507Processing batch 641/2507Processing batch 642/2507Processing batch 643/2507Processing batch 644/2507Processing batch 645/2507Processing batch 646/2507Processing batch 647/2507Processing batch 648/2507Processing batch 649/2507Processing batch 650/2507Processing batch 651/2507Processing batch 652/2507Processing batch 653/2507Processing batch 654/2507Processing batch 655/2507Processing batch 656/2507Processing batch 657/2507Processing batch 658/2507Processing batch 659/2507Processing batch 660/2507Processing batch 661/2507Processing batch 662/2507Processing batch 663/2507Processing batch 664/2507Processing batch 665/2507Processing batch 666/2507Processing batch 667/2507Processing batch 668/2507Processing batch 669/2507Processing batch 670/2507Processing batch 671/2507Processing batch 672/2507Processing batch 673/2507Processing batch 674/2507Processing batch 675/2507Processing batch 676/2507Processing batch 677/2507Processing batch 678/2507Processing batch 679/2507Processing batch 680/2507Processing batch 681/2507Processing batch 682/2507Processing batch 683/2507Processing batch 684/2507Processing batch 685/2507Processing batch 686/2507Processing batch 687/2507Processing batch 688/2507Processing batch 689/2507Processing batch 690/2507Processing batch 691/2507Processing batch 692/2507Processing batch 693/2507Processing batch 694/2507Processing batch 695/2507Processing batch 696/2507Processing batch 697/2507Processing batch 698/2507Processing batch 699/2507Processing batch 700/2507Processing batch 701/2507Processing batch 702/2507Processing batch 703/2507Processing batch 704/2507Processing batch 705/2507Processing batch 706/2507Processing batch 707/2507Processing batch 708/2507Processing batch 709/2507Processing batch 710/2507Processing batch 711/2507Processing batch 712/2507Processing batch 713/2507Processing batch 714/2507Processing batch 715/2507Processing batch 716/2507Processing batch 717/2507Processing batch 718/2507Processing batch 719/2507Processing batch 720/2507Processing batch 721/2507Processing batch 722/2507Processing batch 723/2507Processing batch 724/2507Processing batch 725/2507Processing batch 726/2507Processing batch 727/2507Processing batch 728/2507Processing batch 729/2507Processing batch 730/2507Processing batch 731/2507Processing batch 732/2507Processing batch 733/2507Processing batch 734/2507Processing batch 735/2507Processing batch 736/2507Processing batch 737/2507Processing batch 738/2507Processing batch 739/2507Processing batch 740/2507Processing batch 741/2507Processing batch 742/2507Processing batch 743/2507Processing batch 744/2507Processing batch 745/2507Processing batch 746/2507Processing batch 747/2507Processing batch 748/2507Processing batch 749/2507Processing batch 750/2507Processing batch 751/2507Processing batch 752/2507Processing batch 753/2507Processing batch 754/2507Processing batch 755/2507Processing batch 756/2507Processing batch 757/2507Processing batch 758/2507Processing batch 759/2507Processing batch 760/2507Processing batch 761/2507Processing batch 762/2507Processing batch 763/2507Processing batch 764/2507Processing batch 765/2507Processing batch 766/2507Processing batch 767/2507Processing batch 768/2507Processing batch 769/2507Processing batch 770/2507Processing batch 771/2507Processing batch 772/2507Processing batch 773/2507Processing batch 774/2507Processing batch 775/2507Processing batch 776/2507Processing batch 777/2507Processing batch 778/2507Processing batch 779/2507Processing batch 780/2507Processing batch 781/2507Processing batch 782/2507Processing batch 783/2507Processing batch 784/2507Processing batch 785/2507Processing batch 786/2507Processing batch 787/2507Processing batch 788/2507Processing batch 789/2507Processing batch 790/2507Processing batch 791/2507Processing batch 792/2507Processing batch 793/2507Processing batch 794/2507Processing batch 795/2507Processing batch 796/2507Processing batch 797/2507Processing batch 798/2507Processing batch 799/2507Processing batch 800/2507Processing batch 801/2507Processing batch 802/2507Processing batch 803/2507Processing batch 804/2507Processing batch 805/2507Processing batch 806/2507Processing batch 807/2507Processing batch 808/2507Processing batch 809/2507Processing batch 810/2507Processing batch 811/2507Processing batch 812/2507Processing batch 813/2507Processing batch 814/2507Processing batch 815/2507Processing batch 816/2507Processing batch 817/2507Processing batch 818/2507Processing batch 819/2507Processing batch 820/2507Processing batch 821/2507Processing batch 822/2507Processing batch 823/2507Processing batch 824/2507Processing batch 825/2507Processing batch 826/2507Processing batch 827/2507Processing batch 828/2507Processing batch 829/2507Processing batch 830/2507Processing batch 831/2507Processing batch 832/2507Processing batch 833/2507Processing batch 834/2507Processing batch 835/2507Processing batch 836/2507Processing batch 837/2507Processing batch 838/2507Processing batch 839/2507Processing batch 840/2507Processing batch 841/2507Processing batch 842/2507Processing batch 843/2507Processing batch 844/2507Processing batch 845/2507Processing batch 846/2507Processing batch 847/2507Processing batch 848/2507Processing batch 849/2507Processing batch 850/2507Processing batch 851/2507Processing batch 852/2507Processing batch 853/2507Processing batch 854/2507Processing batch 855/2507Processing batch 856/2507Processing batch 857/2507Processing batch 858/2507Processing batch 859/2507Processing batch 860/2507Processing batch 861/2507Processing batch 862/2507Processing batch 863/2507Processing batch 864/2507Processing batch 865/2507Processing batch 866/2507Processing batch 867/2507Processing batch 868/2507Processing batch 869/2507Processing batch 870/2507Processing batch 871/2507Processing batch 872/2507Processing batch 873/2507Processing batch 874/2507Processing batch 875/2507Processing batch 876/2507Processing batch 877/2507Processing batch 878/2507Processing batch 879/2507Processing batch 880/2507Processing batch 881/2507Processing batch 882/2507Processing batch 883/2507Processing batch 884/2507Processing batch 885/2507Processing batch 886/2507Processing batch 887/2507Processing batch 888/2507Processing batch 889/2507Processing batch 890/2507Processing batch 891/2507Processing batch 892/2507Processing batch 893/2507Processing batch 894/2507Processing batch 895/2507Processing batch 896/2507Processing batch 897/2507Processing batch 898/2507Processing batch 899/2507Processing batch 900/2507Processing batch 901/2507Processing batch 902/2507Processing batch 903/2507Processing batch 904/2507Processing batch 905/2507Processing batch 906/2507Processing batch 907/2507Processing batch 908/2507Processing batch 909/2507Processing batch 910/2507Processing batch 911/2507Processing batch 912/2507Processing batch 913/2507Processing batch 914/2507Processing batch 915/2507Processing batch 916/2507Processing batch 917/2507Processing batch 918/2507Processing batch 919/2507Processing batch 920/2507Processing batch 921/2507Processing batch 922/2507Processing batch 923/2507Processing batch 924/2507Processing batch 925/2507Processing batch 926/2507Processing batch 927/2507Processing batch 928/2507Processing batch 929/2507Processing batch 930/2507Processing batch 931/2507Processing batch 932/2507Processing batch 933/2507Processing batch 934/2507Processing batch 935/2507Processing batch 936/2507Processing batch 937/2507Processing batch 938/2507Processing batch 939/2507Processing batch 940/2507Processing batch 941/2507Processing batch 942/2507Processing batch 943/2507Processing batch 944/2507Processing batch 945/2507Processing batch 946/2507Processing batch 947/2507Processing batch 948/2507Processing batch 949/2507Processing batch 950/2507Processing batch 951/2507Processing batch 952/2507Processing batch 953/2507Processing batch 954/2507Processing batch 955/2507Processing batch 956/2507Processing batch 957/2507Processing batch 958/2507Processing batch 959/2507Processing batch 960/2507Processing batch 961/2507Processing batch 962/2507Processing batch 963/2507Processing batch 964/2507Processing batch 965/2507Processing batch 966/2507Processing batch 967/2507Processing batch 968/2507Processing batch 969/2507Processing batch 970/2507Processing batch 971/2507Processing batch 972/2507Processing batch 973/2507Processing batch 974/2507Processing batch 975/2507Processing batch 976/2507Processing batch 977/2507Processing batch 978/2507Processing batch 979/2507Processing batch 980/2507Processing batch 981/2507Processing batch 982/2507Processing batch 983/2507Processing batch 984/2507Processing batch 985/2507Processing batch 986/2507Processing batch 987/2507Processing batch 988/2507Processing batch 989/2507Processing batch 990/2507Processing batch 991/2507Processing batch 992/2507Processing batch 993/2507Processing batch 994/2507Processing batch 995/2507Processing batch 996/2507Processing batch 997/2507Processing batch 998/2507Processing batch 999/2507Processing batch 1000/2507Processing batch 1001/2507Processing batch 1002/2507Processing batch 1003/2507Processing batch 1004/2507Processing batch 1005/2507Processing batch 1006/2507Processing batch 1007/2507Processing batch 1008/2507Processing batch 1009/2507Processing batch 1010/2507Processing batch 1011/2507Processing batch 1012/2507Processing batch 1013/2507Processing batch 1014/2507Processing batch 1015/2507Processing batch 1016/2507Processing batch 1017/2507Processing batch 1018/2507Processing batch 1019/2507Processing batch 1020/2507Processing batch 1021/2507Processing batch 1022/2507Processing batch 1023/2507Processing batch 1024/2507Processing batch 1025/2507Processing batch 1026/2507Processing batch 1027/2507Processing batch 1028/2507Processing batch 1029/2507Processing batch 1030/2507Processing batch 1031/2507Processing batch 1032/2507Processing batch 1033/2507Processing batch 1034/2507Processing batch 1035/2507Processing batch 1036/2507Processing batch 1037/2507Processing batch 1038/2507Processing batch 1039/2507Processing batch 1040/2507Processing batch 1041/2507Processing batch 1042/2507Processing batch 1043/2507Processing batch 1044/2507Processing batch 1045/2507Processing batch 1046/2507Processing batch 1047/2507Processing batch 1048/2507Processing batch 1049/2507Processing batch 1050/2507Processing batch 1051/2507Processing batch 1052/2507Processing batch 1053/2507Processing batch 1054/2507Processing batch 1055/2507Processing batch 1056/2507Processing batch 1057/2507Processing batch 1058/2507Processing batch 1059/2507Processing batch 1060/2507Processing batch 1061/2507Processing batch 1062/2507Processing batch 1063/2507Processing batch 1064/2507Processing batch 1065/2507Processing batch 1066/2507Processing batch 1067/2507Processing batch 1068/2507Processing batch 1069/2507Processing batch 1070/2507Processing batch 1071/2507Processing batch 1072/2507Processing batch 1073/2507Processing batch 1074/2507Processing batch 1075/2507Processing batch 1076/2507Processing batch 1077/2507Processing batch 1078/2507Processing batch 1079/2507Processing batch 1080/2507Processing batch 1081/2507Processing batch 1082/2507Processing batch 1083/2507Processing batch 1084/2507Processing batch 1085/2507Processing batch 1086/2507Processing batch 1087/2507Processing batch 1088/2507Processing batch 1089/2507Processing batch 1090/2507Processing batch 1091/2507Processing batch 1092/2507Processing batch 1093/2507Processing batch 1094/2507Processing batch 1095/2507Processing batch 1096/2507Processing batch 1097/2507Processing batch 1098/2507Processing batch 1099/2507Processing batch 1100/2507Processing batch 1101/2507Processing batch 1102/2507Processing batch 1103/2507Processing batch 1104/2507Processing batch 1105/2507Processing batch 1106/2507Processing batch 1107/2507Processing batch 1108/2507Processing batch 1109/2507Processing batch 1110/2507Processing batch 1111/2507Processing batch 1112/2507Processing batch 1113/2507Processing batch 1114/2507Processing batch 1115/2507Processing batch 1116/2507Processing batch 1117/2507Processing batch 1118/2507Processing batch 1119/2507Processing batch 1120/2507Processing batch 1121/2507Processing batch 1122/2507Processing batch 1123/2507Processing batch 1124/2507Processing batch 1125/2507Processing batch 1126/2507Processing batch 1127/2507Processing batch 1128/2507Processing batch 1129/2507Processing batch 1130/2507Processing batch 1131/2507Processing batch 1132/2507Processing batch 1133/2507Processing batch 1134/2507Processing batch 1135/2507Processing batch 1136/2507Processing batch 1137/2507Processing batch 1138/2507Processing batch 1139/2507Processing batch 1140/2507Processing batch 1141/2507Processing batch 1142/2507Processing batch 1143/2507Processing batch 1144/2507Processing batch 1145/2507Processing batch 1146/2507Processing batch 1147/2507Processing batch 1148/2507Processing batch 1149/2507Processing batch 1150/2507Processing batch 1151/2507Processing batch 1152/2507Processing batch 1153/2507Processing batch 1154/2507Processing batch 1155/2507Processing batch 1156/2507Processing batch 1157/2507Processing batch 1158/2507Processing batch 1159/2507Processing batch 1160/2507Processing batch 1161/2507Processing batch 1162/2507Processing batch 1163/2507Processing batch 1164/2507Processing batch 1165/2507Processing batch 1166/2507Processing batch 1167/2507Processing batch 1168/2507Processing batch 1169/2507Processing batch 1170/2507Processing batch 1171/2507Processing batch 1172/2507Processing batch 1173/2507Processing batch 1174/2507Processing batch 1175/2507Processing batch 1176/2507Processing batch 1177/2507Processing batch 1178/2507Processing batch 1179/2507Processing batch 1180/2507Processing batch 1181/2507Processing batch 1182/2507Processing batch 1183/2507Processing batch 1184/2507Processing batch 1185/2507Processing batch 1186/2507Processing batch 1187/2507Processing batch 1188/2507Processing batch 1189/2507Processing batch 1190/2507Processing batch 1191/2507Processing batch 1192/2507Processing batch 1193/2507Processing batch 1194/2507Processing batch 1195/2507Processing batch 1196/2507Processing batch 1197/2507Processing batch 1198/2507Processing batch 1199/2507Processing batch 1200/2507Processing batch 1201/2507Processing batch 1202/2507Processing batch 1203/2507Processing batch 1204/2507Processing batch 1205/2507Processing batch 1206/2507Processing batch 1207/2507Processing batch 1208/2507Processing batch 1209/2507Processing batch 1210/2507Processing batch 1211/2507Processing batch 1212/2507Processing batch 1213/2507Processing batch 1214/2507Processing batch 1215/2507Processing batch 1216/2507Processing batch 1217/2507Processing batch 1218/2507Processing batch 1219/2507Processing batch 1220/2507Processing batch 1221/2507Processing batch 1222/2507Processing batch 1223/2507Processing batch 1224/2507Processing batch 1225/2507Processing batch 1226/2507Processing batch 1227/2507Processing batch 1228/2507Processing batch 1229/2507Processing batch 1230/2507Processing batch 1231/2507Processing batch 1232/2507Processing batch 1233/2507Processing batch 1234/2507Processing batch 1235/2507Processing batch 1236/2507Processing batch 1237/2507Processing batch 1238/2507Processing batch 1239/2507Processing batch 1240/2507Processing batch 1241/2507Processing batch 1242/2507Processing batch 1243/2507Processing batch 1244/2507Processing batch 1245/2507Processing batch 1246/2507Processing batch 1247/2507Processing batch 1248/2507Processing batch 1249/2507Processing batch 1250/2507Processing batch 1251/2507Processing batch 1252/2507Processing batch 1253/2507Processing batch 1254/2507Processing batch 1255/2507Processing batch 1256/2507Processing batch 1257/2507Processing batch 1258/2507Processing batch 1259/2507Processing batch 1260/2507Processing batch 1261/2507Processing batch 1262/2507Processing batch 1263/2507Processing batch 1264/2507Processing batch 1265/2507Processing batch 1266/2507Processing batch 1267/2507Processing batch 1268/2507Processing batch 1269/2507Processing batch 1270/2507Processing batch 1271/2507Processing batch 1272/2507Processing batch 1273/2507Processing batch 1274/2507Processing batch 1275/2507Processing batch 1276/2507Processing batch 1277/2507Processing batch 1278/2507Processing batch 1279/2507Processing batch 1280/2507Processing batch 1281/2507Processing batch 1282/2507Processing batch 1283/2507Processing batch 1284/2507Processing batch 1285/2507Processing batch 1286/2507Processing batch 1287/2507Processing batch 1288/2507Processing batch 1289/2507Processing batch 1290/2507Processing batch 1291/2507Processing batch 1292/2507Processing batch 1293/2507Processing batch 1294/2507Processing batch 1295/2507Processing batch 1296/2507Processing batch 1297/2507Processing batch 1298/2507Processing batch 1299/2507Processing batch 1300/2507Processing batch 1301/2507Processing batch 1302/2507Processing batch 1303/2507Processing batch 1304/2507Processing batch 1305/2507Processing batch 1306/2507Processing batch 1307/2507Processing batch 1308/2507Processing batch 1309/2507Processing batch 1310/2507Processing batch 1311/2507Processing batch 1312/2507Processing batch 1313/2507Processing batch 1314/2507Processing batch 1315/2507Processing batch 1316/2507Processing batch 1317/2507Processing batch 1318/2507Processing batch 1319/2507Processing batch 1320/2507Processing batch 1321/2507Processing batch 1322/2507Processing batch 1323/2507Processing batch 1324/2507Processing batch 1325/2507Processing batch 1326/2507Processing batch 1327/2507Processing batch 1328/2507Processing batch 1329/2507Processing batch 1330/2507Processing batch 1331/2507Processing batch 1332/2507Processing batch 1333/2507Processing batch 1334/2507Processing batch 1335/2507Processing batch 1336/2507Processing batch 1337/2507Processing batch 1338/2507Processing batch 1339/2507Processing batch 1340/2507Processing batch 1341/2507Processing batch 1342/2507Processing batch 1343/2507Processing batch 1344/2507Processing batch 1345/2507Processing batch 1346/2507Processing batch 1347/2507Processing batch 1348/2507Processing batch 1349/2507Processing batch 1350/2507Processing batch 1351/2507Processing batch 1352/2507Processing batch 1353/2507Processing batch 1354/2507Processing batch 1355/2507Processing batch 1356/2507Processing batch 1357/2507Processing batch 1358/2507Processing batch 1359/2507Processing batch 1360/2507Processing batch 1361/2507Processing batch 1362/2507Processing batch 1363/2507Processing batch 1364/2507Processing batch 1365/2507Processing batch 1366/2507Processing batch 1367/2507Processing batch 1368/2507Processing batch 1369/2507Processing batch 1370/2507Processing batch 1371/2507Processing batch 1372/2507Processing batch 1373/2507Processing batch 1374/2507Processing batch 1375/2507Processing batch 1376/2507Processing batch 1377/2507Processing batch 1378/2507Processing batch 1379/2507Processing batch 1380/2507Processing batch 1381/2507Processing batch 1382/2507Processing batch 1383/2507Processing batch 1384/2507Processing batch 1385/2507Processing batch 1386/2507Processing batch 1387/2507Processing batch 1388/2507Processing batch 1389/2507Processing batch 1390/2507Processing batch 1391/2507Processing batch 1392/2507Processing batch 1393/2507Processing batch 1394/2507Processing batch 1395/2507Processing batch 1396/2507Processing batch 1397/2507Processing batch 1398/2507Processing batch 1399/2507Processing batch 1400/2507Processing batch 1401/2507Processing batch 1402/2507Processing batch 1403/2507Processing batch 1404/2507Processing batch 1405/2507Processing batch 1406/2507Processing batch 1407/2507Processing batch 1408/2507Processing batch 1409/2507Processing batch 1410/2507Processing batch 1411/2507Processing batch 1412/2507Processing batch 1413/2507Processing batch 1414/2507Processing batch 1415/2507Processing batch 1416/2507Processing batch 1417/2507Processing batch 1418/2507Processing batch 1419/2507Processing batch 1420/2507Processing batch 1421/2507Processing batch 1422/2507Processing batch 1423/2507Processing batch 1424/2507Processing batch 1425/2507Processing batch 1426/2507Processing batch 1427/2507Processing batch 1428/2507Processing batch 1429/2507Processing batch 1430/2507Processing batch 1431/2507Processing batch 1432/2507Processing batch 1433/2507Processing batch 1434/2507Processing batch 1435/2507Processing batch 1436/2507Processing batch 1437/2507Processing batch 1438/2507Processing batch 1439/2507Processing batch 1440/2507Processing batch 1441/2507Processing batch 1442/2507Processing batch 1443/2507Processing batch 1444/2507Processing batch 1445/2507Processing batch 1446/2507Processing batch 1447/2507Processing batch 1448/2507Processing batch 1449/2507Processing batch 1450/2507Processing batch 1451/2507Processing batch 1452/2507Processing batch 1453/2507Processing batch 1454/2507Processing batch 1455/2507Processing batch 1456/2507Processing batch 1457/2507Processing batch 1458/2507Processing batch 1459/2507Processing batch 1460/2507Processing batch 1461/2507Processing batch 1462/2507Processing batch 1463/2507Processing batch 1464/2507Processing batch 1465/2507Processing batch 1466/2507Processing batch 1467/2507Processing batch 1468/2507Processing batch 1469/2507Processing batch 1470/2507Processing batch 1471/2507Processing batch 1472/2507Processing batch 1473/2507Processing batch 1474/2507Processing batch 1475/2507Processing batch 1476/2507Processing batch 1477/2507Processing batch 1478/2507Processing batch 1479/2507Processing batch 1480/2507Processing batch 1481/2507Processing batch 1482/2507Processing batch 1483/2507Processing batch 1484/2507Processing batch 1485/2507Processing batch 1486/2507Processing batch 1487/2507Processing batch 1488/2507Processing batch 1489/2507Processing batch 1490/2507Processing batch 1491/2507Processing batch 1492/2507Processing batch 1493/2507Processing batch 1494/2507Processing batch 1495/2507Processing batch 1496/2507Processing batch 1497/2507Processing batch 1498/2507Processing batch 1499/2507Processing batch 1500/2507Processing batch 1501/2507Processing batch 1502/2507Processing batch 1503/2507Processing batch 1504/2507Processing batch 1505/2507Processing batch 1506/2507Processing batch 1507/2507Processing batch 1508/2507Processing batch 1509/2507Processing batch 1510/2507Processing batch 1511/2507Processing batch 1512/2507Processing batch 1513/2507Processing batch 1514/2507Processing batch 1515/2507Processing batch 1516/2507Processing batch 1517/2507Processing batch 1518/2507Processing batch 1519/2507Processing batch 1520/2507Processing batch 1521/2507Processing batch 1522/2507Processing batch 1523/2507Processing batch 1524/2507Processing batch 1525/2507Processing batch 1526/2507Processing batch 1527/2507Processing batch 1528/2507Processing batch 1529/2507Processing batch 1530/2507Processing batch 1531/2507Processing batch 1532/2507Processing batch 1533/2507Processing batch 1534/2507Processing batch 1535/2507Processing batch 1536/2507Processing batch 1537/2507Processing batch 1538/2507Processing batch 1539/2507Processing batch 1540/2507Processing batch 1541/2507Processing batch 1542/2507Processing batch 1543/2507Processing batch 1544/2507Processing batch 1545/2507Processing batch 1546/2507Processing batch 1547/2507Processing batch 1548/2507Processing batch 1549/2507Processing batch 1550/2507Processing batch 1551/2507Processing batch 1552/2507Processing batch 1553/2507Processing batch 1554/2507Processing batch 1555/2507Processing batch 1556/2507Processing batch 1557/2507Processing batch 1558/2507Processing batch 1559/2507Processing batch 1560/2507Processing batch 1561/2507Processing batch 1562/2507Processing batch 1563/2507Processing batch 1564/2507Processing batch 1565/2507Processing batch 1566/2507Processing batch 1567/2507Processing batch 1568/2507Processing batch 1569/2507Processing batch 1570/2507Processing batch 1571/2507Processing batch 1572/2507Processing batch 1573/2507Processing batch 1574/2507Processing batch 1575/2507Processing batch 1576/2507Processing batch 1577/2507Processing batch 1578/2507Processing batch 1579/2507Processing batch 1580/2507Processing batch 1581/2507Processing batch 1582/2507Processing batch 1583/2507Processing batch 1584/2507Processing batch 1585/2507Processing batch 1586/2507Processing batch 1587/2507Processing batch 1588/2507Processing batch 1589/2507Processing batch 1590/2507Processing batch 1591/2507Processing batch 1592/2507Processing batch 1593/2507Processing batch 1594/2507Processing batch 1595/2507Processing batch 1596/2507Processing batch 1597/2507Processing batch 1598/2507Processing batch 1599/2507Processing batch 1600/2507Processing batch 1601/2507Processing batch 1602/2507Processing batch 1603/2507Processing batch 1604/2507Processing batch 1605/2507Processing batch 1606/2507Processing batch 1607/2507Processing batch 1608/2507Processing batch 1609/2507Processing batch 1610/2507Processing batch 1611/2507Processing batch 1612/2507Processing batch 1613/2507Processing batch 1614/2507Processing batch 1615/2507Processing batch 1616/2507Processing batch 1617/2507Processing batch 1618/2507Processing batch 1619/2507Processing batch 1620/2507Processing batch 1621/2507Processing batch 1622/2507Processing batch 1623/2507Processing batch 1624/2507Processing batch 1625/2507Processing batch 1626/2507Processing batch 1627/2507Processing batch 1628/2507Processing batch 1629/2507Processing batch 1630/2507Processing batch 1631/2507Processing batch 1632/2507Processing batch 1633/2507Processing batch 1634/2507Processing batch 1635/2507Processing batch 1636/2507Processing batch 1637/2507Processing batch 1638/2507Processing batch 1639/2507Processing batch 1640/2507Processing batch 1641/2507Processing batch 1642/2507Processing batch 1643/2507Processing batch 1644/2507Processing batch 1645/2507Processing batch 1646/2507Processing batch 1647/2507Processing batch 1648/2507Processing batch 1649/2507Processing batch 1650/2507Processing batch 1651/2507Processing batch 1652/2507Processing batch 1653/2507Processing batch 1654/2507Processing batch 1655/2507Processing batch 1656/2507Processing batch 1657/2507Processing batch 1658/2507Processing batch 1659/2507Processing batch 1660/2507Processing batch 1661/2507Processing batch 1662/2507Processing batch 1663/2507Processing batch 1664/2507Processing batch 1665/2507Processing batch 1666/2507Processing batch 1667/2507Processing batch 1668/2507Processing batch 1669/2507Processing batch 1670/2507Processing batch 1671/2507Processing batch 1672/2507Processing batch 1673/2507Processing batch 1674/2507Processing batch 1675/2507Processing batch 1676/2507Processing batch 1677/2507Processing batch 1678/2507Processing batch 1679/2507Processing batch 1680/2507Processing batch 1681/2507Processing batch 1682/2507Processing batch 1683/2507Processing batch 1684/2507Processing batch 1685/2507Processing batch 1686/2507Processing batch 1687/2507Processing batch 1688/2507Processing batch 1689/2507Processing batch 1690/2507Processing batch 1691/2507Processing batch 1692/2507Processing batch 1693/2507Processing batch 1694/2507Processing batch 1695/2507Processing batch 1696/2507Processing batch 1697/2507Processing batch 1698/2507Processing batch 1699/2507Processing batch 1700/2507Processing batch 1701/2507Processing batch 1702/2507Processing batch 1703/2507Processing batch 1704/2507Processing batch 1705/2507Processing batch 1706/2507Processing batch 1707/2507Processing batch 1708/2507Processing batch 1709/2507Processing batch 1710/2507Processing batch 1711/2507Processing batch 1712/2507Processing batch 1713/2507Processing batch 1714/2507Processing batch 1715/2507Processing batch 1716/2507Processing batch 1717/2507Processing batch 1718/2507Processing batch 1719/2507Processing batch 1720/2507Processing batch 1721/2507Processing batch 1722/2507Processing batch 1723/2507Processing batch 1724/2507Processing batch 1725/2507Processing batch 1726/2507Processing batch 1727/2507Processing batch 1728/2507Processing batch 1729/2507Processing batch 1730/2507Processing batch 1731/2507Processing batch 1732/2507Processing batch 1733/2507Processing batch 1734/2507Processing batch 1735/2507Processing batch 1736/2507Processing batch 1737/2507Processing batch 1738/2507Processing batch 1739/2507Processing batch 1740/2507Processing batch 1741/2507Processing batch 1742/2507Processing batch 1743/2507Processing batch 1744/2507Processing batch 1745/2507Processing batch 1746/2507Processing batch 1747/2507Processing batch 1748/2507Processing batch 1749/2507Processing batch 1750/2507Processing batch 1751/2507Processing batch 1752/2507Processing batch 1753/2507Processing batch 1754/2507Processing batch 1755/2507Processing batch 1756/2507Processing batch 1757/2507Processing batch 1758/2507Processing batch 1759/2507Processing batch 1760/2507Processing batch 1761/2507Processing batch 1762/2507Processing batch 1763/2507Processing batch 1764/2507Processing batch 1765/2507Processing batch 1766/2507Processing batch 1767/2507Processing batch 1768/2507Processing batch 1769/2507Processing batch 1770/2507Processing batch 1771/2507Processing batch 1772/2507Processing batch 1773/2507Processing batch 1774/2507Processing batch 1775/2507Processing batch 1776/2507Processing batch 1777/2507Processing batch 1778/2507Processing batch 1779/2507Processing batch 1780/2507Processing batch 1781/2507Processing batch 1782/2507Processing batch 1783/2507Processing batch 1784/2507Processing batch 1785/2507Processing batch 1786/2507Processing batch 1787/2507Processing batch 1788/2507Processing batch 1789/2507Processing batch 1790/2507Processing batch 1791/2507Processing batch 1792/2507Processing batch 1793/2507Processing batch 1794/2507Processing batch 1795/2507Processing batch 1796/2507Processing batch 1797/2507Processing batch 1798/2507Processing batch 1799/2507Processing batch 1800/2507Processing batch 1801/2507Processing batch 1802/2507Processing batch 1803/2507Processing batch 1804/2507Processing batch 1805/2507Processing batch 1806/2507Processing batch 1807/2507Processing batch 1808/2507Processing batch 1809/2507Processing batch 1810/2507Processing batch 1811/2507Processing batch 1812/2507Processing batch 1813/2507Processing batch 1814/2507Processing batch 1815/2507Processing batch 1816/2507Processing batch 1817/2507Processing batch 1818/2507Processing batch 1819/2507Processing batch 1820/2507Processing batch 1821/2507Processing batch 1822/2507Processing batch 1823/2507Processing batch 1824/2507Processing batch 1825/2507Processing batch 1826/2507Processing batch 1827/2507Processing batch 1828/2507Processing batch 1829/2507Processing batch 1830/2507Processing batch 1831/2507Processing batch 1832/2507Processing batch 1833/2507Processing batch 1834/2507Processing batch 1835/2507Processing batch 1836/2507Processing batch 1837/2507Processing batch 1838/2507Processing batch 1839/2507Processing batch 1840/2507Processing batch 1841/2507Processing batch 1842/2507Processing batch 1843/2507Processing batch 1844/2507Processing batch 1845/2507Processing batch 1846/2507Processing batch 1847/2507Processing batch 1848/2507Processing batch 1849/2507Processing batch 1850/2507Processing batch 1851/2507Processing batch 1852/2507Processing batch 1853/2507Processing batch 1854/2507Processing batch 1855/2507Processing batch 1856/2507Processing batch 1857/2507Processing batch 1858/2507Processing batch 1859/2507Processing batch 1860/2507Processing batch 1861/2507Processing batch 1862/2507Processing batch 1863/2507Processing batch 1864/2507Processing batch 1865/2507Processing batch 1866/2507Processing batch 1867/2507Processing batch 1868/2507Processing batch 1869/2507Processing batch 1870/2507Processing batch 1871/2507Processing batch 1872/2507Processing batch 1873/2507Processing batch 1874/2507Processing batch 1875/2507Processing batch 1876/2507Processing batch 1877/2507Processing batch 1878/2507Processing batch 1879/2507Processing batch 1880/2507Processing batch 1881/2507Processing batch 1882/2507Processing batch 1883/2507Processing batch 1884/2507Processing batch 1885/2507Processing batch 1886/2507Processing batch 1887/2507Processing batch 1888/2507Processing batch 1889/2507Processing batch 1890/2507Processing batch 1891/2507Processing batch 1892/2507Processing batch 1893/2507Processing batch 1894/2507Processing batch 1895/2507Processing batch 1896/2507Processing batch 1897/2507Processing batch 1898/2507Processing batch 1899/2507Processing batch 1900/2507Processing batch 1901/2507Processing batch 1902/2507Processing batch 1903/2507Processing batch 1904/2507Processing batch 1905/2507Processing batch 1906/2507Processing batch 1907/2507Processing batch 1908/2507Processing batch 1909/2507Processing batch 1910/2507Processing batch 1911/2507Processing batch 1912/2507Processing batch 1913/2507Processing batch 1914/2507Processing batch 1915/2507Processing batch 1916/2507Processing batch 1917/2507Processing batch 1918/2507Processing batch 1919/2507Processing batch 1920/2507Processing batch 1921/2507Processing batch 1922/2507Processing batch 1923/2507Processing batch 1924/2507Processing batch 1925/2507Processing batch 1926/2507Processing batch 1927/2507Processing batch 1928/2507Processing batch 1929/2507Processing batch 1930/2507Processing batch 1931/2507Processing batch 1932/2507Processing batch 1933/2507Processing batch 1934/2507Processing batch 1935/2507Processing batch 1936/2507Processing batch 1937/2507Processing batch 1938/2507Processing batch 1939/2507Processing batch 1940/2507Processing batch 1941/2507Processing batch 1942/2507Processing batch 1943/2507Processing batch 1944/2507Processing batch 1945/2507Processing batch 1946/2507Processing batch 1947/2507Processing batch 1948/2507Processing batch 1949/2507Processing batch 1950/2507Processing batch 1951/2507Processing batch 1952/2507Processing batch 1953/2507Processing batch 1954/2507Processing batch 1955/2507Processing batch 1956/2507Processing batch 1957/2507Processing batch 1958/2507Processing batch 1959/2507Processing batch 1960/2507Processing batch 1961/2507Processing batch 1962/2507Processing batch 1963/2507Processing batch 1964/2507Processing batch 1965/2507Processing batch 1966/2507Processing batch 1967/2507Processing batch 1968/2507Processing batch 1969/2507Processing batch 1970/2507Processing batch 1971/2507Processing batch 1972/2507Processing batch 1973/2507Processing batch 1974/2507Processing batch 1975/2507Processing batch 1976/2507Processing batch 1977/2507Processing batch 1978/2507Processing batch 1979/2507Processing batch 1980/2507Processing batch 1981/2507Processing batch 1982/2507Processing batch 1983/2507Processing batch 1984/2507Processing batch 1985/2507Processing batch 1986/2507Processing batch 1987/2507Processing batch 1988/2507Processing batch 1989/2507Processing batch 1990/2507Processing batch 1991/2507Processing batch 1992/2507Processing batch 1993/2507Processing batch 1994/2507Processing batch 1995/2507Processing batch 1996/2507Processing batch 1997/2507Processing batch 1998/2507Processing batch 1999/2507Processing batch 2000/2507Processing batch 2001/2507Processing batch 2002/2507Processing batch 2003/2507Processing batch 2004/2507Processing batch 2005/2507Processing batch 2006/2507Processing batch 2007/2507Processing batch 2008/2507Processing batch 2009/2507Processing batch 2010/2507Processing batch 2011/2507Processing batch 2012/2507Processing batch 2013/2507Processing batch 2014/2507Processing batch 2015/2507Processing batch 2016/2507Processing batch 2017/2507Processing batch 2018/2507Processing batch 2019/2507Processing batch 2020/2507Processing batch 2021/2507Processing batch 2022/2507Processing batch 2023/2507Processing batch 2024/2507Processing batch 2025/2507Processing batch 2026/2507Processing batch 2027/2507Processing batch 2028/2507Processing batch 2029/2507Processing batch 2030/2507Processing batch 2031/2507Processing batch 2032/2507Processing batch 2033/2507Processing batch 2034/2507Processing batch 2035/2507Processing batch 2036/2507Processing batch 2037/2507Processing batch 2038/2507Processing batch 2039/2507Processing batch 2040/2507Processing batch 2041/2507Processing batch 2042/2507Processing batch 2043/2507Processing batch 2044/2507Processing batch 2045/2507Processing batch 2046/2507Processing batch 2047/2507Processing batch 2048/2507Processing batch 2049/2507Processing batch 2050/2507Processing batch 2051/2507Processing batch 2052/2507Processing batch 2053/2507Processing batch 2054/2507Processing batch 2055/2507Processing batch 2056/2507Processing batch 2057/2507Processing batch 2058/2507Processing batch 2059/2507Processing batch 2060/2507Processing batch 2061/2507Processing batch 2062/2507Processing batch 2063/2507Processing batch 2064/2507Processing batch 2065/2507Processing batch 2066/2507Processing batch 2067/2507Processing batch 2068/2507Processing batch 2069/2507Processing batch 2070/2507Processing batch 2071/2507Processing batch 2072/2507Processing batch 2073/2507Processing batch 2074/2507Processing batch 2075/2507Processing batch 2076/2507Processing batch 2077/2507Processing batch 2078/2507Processing batch 2079/2507Processing batch 2080/2507Processing batch 2081/2507Processing batch 2082/2507Processing batch 2083/2507Processing batch 2084/2507Processing batch 2085/2507Processing batch 2086/2507Processing batch 2087/2507Processing batch 2088/2507Processing batch 2089/2507Processing batch 2090/2507Processing batch 2091/2507Processing batch 2092/2507Processing batch 2093/2507Processing batch 2094/2507Processing batch 2095/2507Processing batch 2096/2507Processing batch 2097/2507Processing batch 2098/2507Processing batch 2099/2507Processing batch 2100/2507Processing batch 2101/2507Processing batch 2102/2507Processing batch 2103/2507Processing batch 2104/2507Processing batch 2105/2507Processing batch 2106/2507Processing batch 2107/2507Processing batch 2108/2507Processing batch 2109/2507Processing batch 2110/2507Processing batch 2111/2507Processing batch 2112/2507Processing batch 2113/2507Processing batch 2114/2507Processing batch 2115/2507Processing batch 2116/2507Processing batch 2117/2507Processing batch 2118/2507Processing batch 2119/2507Processing batch 2120/2507Processing batch 2121/2507Processing batch 2122/2507Processing batch 2123/2507Processing batch 2124/2507Processing batch 2125/2507Processing batch 2126/2507Processing batch 2127/2507Processing batch 2128/2507Processing batch 2129/2507Processing batch 2130/2507Processing batch 2131/2507Processing batch 2132/2507Processing batch 2133/2507Processing batch 2134/2507Processing batch 2135/2507Processing batch 2136/2507Processing batch 2137/2507Processing batch 2138/2507Processing batch 2139/2507Processing batch 2140/2507Processing batch 2141/2507Processing batch 2142/2507Processing batch 2143/2507Processing batch 2144/2507Processing batch 2145/2507Processing batch 2146/2507Processing batch 2147/2507Processing batch 2148/2507Processing batch 2149/2507Processing batch 2150/2507Processing batch 2151/2507Processing batch 2152/2507Processing batch 2153/2507Processing batch 2154/2507Processing batch 2155/2507Processing batch 2156/2507Processing batch 2157/2507Processing batch 2158/2507Processing batch 2159/2507Processing batch 2160/2507Processing batch 2161/2507Processing batch 2162/2507Processing batch 2163/2507Processing batch 2164/2507Processing batch 2165/2507Processing batch 2166/2507Processing batch 2167/2507Processing batch 2168/2507Processing batch 2169/2507Processing batch 2170/2507Processing batch 2171/2507Processing batch 2172/2507Processing batch 2173/2507Processing batch 2174/2507Processing batch 2175/2507Processing batch 2176/2507Processing batch 2177/2507Processing batch 2178/2507Processing batch 2179/2507Processing batch 2180/2507Processing batch 2181/2507Processing batch 2182/2507Processing batch 2183/2507Processing batch 2184/2507Processing batch 2185/2507Processing batch 2186/2507Processing batch 2187/2507Processing batch 2188/2507Processing batch 2189/2507Processing batch 2190/2507Processing batch 2191/2507Processing batch 2192/2507Processing batch 2193/2507Processing batch 2194/2507Processing batch 2195/2507Processing batch 2196/2507Processing batch 2197/2507Processing batch 2198/2507Processing batch 2199/2507Processing batch 2200/2507Processing batch 2201/2507Processing batch 2202/2507Processing batch 2203/2507Processing batch 2204/2507Processing batch 2205/2507Processing batch 2206/2507Processing batch 2207/2507Processing batch 2208/2507Processing batch 2209/2507Processing batch 2210/2507Processing batch 2211/2507Processing batch 2212/2507Processing batch 2213/2507Processing batch 2214/2507Processing batch 2215/2507Processing batch 2216/2507Processing batch 2217/2507Processing batch 2218/2507Processing batch 2219/2507Processing batch 2220/2507Processing batch 2221/2507Processing batch 2222/2507Processing batch 2223/2507Processing batch 2224/2507Processing batch 2225/2507Processing batch 2226/2507Processing batch 2227/2507Processing batch 2228/2507Processing batch 2229/2507Processing batch 2230/2507Processing batch 2231/2507Processing batch 2232/2507Processing batch 2233/2507Processing batch 2234/2507Processing batch 2235/2507Processing batch 2236/2507Processing batch 2237/2507Processing batch 2238/2507Processing batch 2239/2507Processing batch 2240/2507Processing batch 2241/2507Processing batch 2242/2507Processing batch 2243/2507Processing batch 2244/2507Processing batch 2245/2507Processing batch 2246/2507Processing batch 2247/2507Processing batch 2248/2507Processing batch 2249/2507Processing batch 2250/2507Processing batch 2251/2507Processing batch 2252/2507Processing batch 2253/2507Processing batch 2254/2507Processing batch 2255/2507Processing batch 2256/2507Processing batch 2257/2507Processing batch 2258/2507Processing batch 2259/2507Processing batch 2260/2507Processing batch 2261/2507Processing batch 2262/2507Processing batch 2263/2507Processing batch 2264/2507Processing batch 2265/2507Processing batch 2266/2507Processing batch 2267/2507Processing batch 2268/2507Processing batch 2269/2507Processing batch 2270/2507Processing batch 2271/2507Processing batch 2272/2507Processing batch 2273/2507Processing batch 2274/2507Processing batch 2275/2507Processing batch 2276/2507Processing batch 2277/2507Processing batch 2278/2507Processing batch 2279/2507Processing batch 2280/2507Processing batch 2281/2507Processing batch 2282/2507Processing batch 2283/2507Processing batch 2284/2507Processing batch 2285/2507Processing batch 2286/2507Processing batch 2287/2507Processing batch 2288/2507Processing batch 2289/2507Processing batch 2290/2507Processing batch 2291/2507Processing batch 2292/2507Processing batch 2293/2507Processing batch 2294/2507Processing batch 2295/2507Processing batch 2296/2507Processing batch 2297/2507Processing batch 2298/2507Processing batch 2299/2507Processing batch 2300/2507Processing batch 2301/2507Processing batch 2302/2507Processing batch 2303/2507Processing batch 2304/2507Processing batch 2305/2507Processing batch 2306/2507Processing batch 2307/2507Processing batch 2308/2507Processing batch 2309/2507Processing batch 2310/2507Processing batch 2311/2507Processing batch 2312/2507Processing batch 2313/2507Processing batch 2314/2507Processing batch 2315/2507Processing batch 2316/2507Processing batch 2317/2507Processing batch 2318/2507Processing batch 2319/2507Processing batch 2320/2507Processing batch 2321/2507Processing batch 2322/2507Processing batch 2323/2507Processing batch 2324/2507Processing batch 2325/2507Processing batch 2326/2507Processing batch 2327/2507Processing batch 2328/2507Processing batch 2329/2507Processing batch 2330/2507Processing batch 2331/2507Processing batch 2332/2507Processing batch 2333/2507Processing batch 2334/2507Processing batch 2335/2507Processing batch 2336/2507Processing batch 2337/2507Processing batch 2338/2507Processing batch 2339/2507Processing batch 2340/2507Processing batch 2341/2507Processing batch 2342/2507Processing batch 2343/2507Processing batch 2344/2507Processing batch 2345/2507Processing batch 2346/2507Processing batch 2347/2507Processing batch 2348/2507Processing batch 2349/2507Processing batch 2350/2507Processing batch 2351/2507Processing batch 2352/2507Processing batch 2353/2507Processing batch 2354/2507Processing batch 2355/2507Processing batch 2356/2507Processing batch 2357/2507Processing batch 2358/2507Processing batch 2359/2507Processing batch 2360/2507Processing batch 2361/2507Processing batch 2362/2507Processing batch 2363/2507Processing batch 2364/2507Processing batch 2365/2507Processing batch 2366/2507Processing batch 2367/2507Processing batch 2368/2507Processing batch 2369/2507Processing batch 2370/2507Processing batch 2371/2507Processing batch 2372/2507Processing batch 2373/2507Processing batch 2374/2507Processing batch 2375/2507Processing batch 2376/2507Processing batch 2377/2507Processing batch 2378/2507Processing batch 2379/2507Processing batch 2380/2507Processing batch 2381/2507Processing batch 2382/2507Processing batch 2383/2507Processing batch 2384/2507Processing batch 2385/2507Processing batch 2386/2507Processing batch 2387/2507Processing batch 2388/2507Processing batch 2389/2507Processing batch 2390/2507Processing batch 2391/2507Processing batch 2392/2507Processing batch 2393/2507Processing batch 2394/2507Processing batch 2395/2507Processing batch 2396/2507Processing batch 2397/2507Processing batch 2398/2507Processing batch 2399/2507Processing batch 2400/2507Processing batch 2401/2507Processing batch 2402/2507Processing batch 2403/2507Processing batch 2404/2507Processing batch 2405/2507Processing batch 2406/2507Processing batch 2407/2507Processing batch 2408/2507Processing batch 2409/2507Processing batch 2410/2507Processing batch 2411/2507Processing batch 2412/2507Processing batch 2413/2507Processing batch 2414/2507Processing batch 2415/2507Processing batch 2416/2507Processing batch 2417/2507Processing batch 2418/2507Processing batch 2419/2507Processing batch 2420/2507Processing batch 2421/2507Processing batch 2422/2507Processing batch 2423/2507Processing batch 2424/2507Processing batch 2425/2507Processing batch 2426/2507Processing batch 2427/2507Processing batch 2428/2507Processing batch 2429/2507Processing batch 2430/2507Processing batch 2431/2507Processing batch 2432/2507Processing batch 2433/2507Processing batch 2434/2507Processing batch 2435/2507Processing batch 2436/2507Processing batch 2437/2507Processing batch 2438/2507Processing batch 2439/2507Processing batch 2440/2507Processing batch 2441/2507Processing batch 2442/2507Processing batch 2443/2507Processing batch 2444/2507Processing batch 2445/2507Processing batch 2446/2507Processing batch 2447/2507Processing batch 2448/2507Processing batch 2449/2507Processing batch 2450/2507Processing batch 2451/2507Processing batch 2452/2507Processing batch 2453/2507Processing batch 2454/2507Processing batch 2455/2507Processing batch 2456/2507Processing batch 2457/2507Processing batch 2458/2507Processing batch 2459/2507Processing batch 2460/2507Processing batch 2461/2507Processing batch 2462/2507Processing batch 2463/2507Processing batch 2464/2507Processing batch 2465/2507Processing batch 2466/2507Processing batch 2467/2507Processing batch 2468/2507Processing batch 2469/2507Processing batch 2470/2507Processing batch 2471/2507Processing batch 2472/2507Processing batch 2473/2507Processing batch 2474/2507Processing batch 2475/2507Processing batch 2476/2507Processing batch 2477/2507Processing batch 2478/2507Processing batch 2479/2507Processing batch 2480/2507Processing batch 2481/2507Processing batch 2482/2507Processing batch 2483/2507Processing batch 2484/2507Processing batch 2485/2507Processing batch 2486/2507Processing batch 2487/2507Processing batch 2488/2507Processing batch 2489/2507Processing batch 2490/2507Processing batch 2491/2507Processing batch 2492/2507Processing batch 2493/2507Processing batch 2494/2507Processing batch 2495/2507Processing batch 2496/2507Processing batch 2497/2507Processing batch 2498/2507Processing batch 2499/2507Processing batch 2500/2507Processing batch 2501/2507Processing batch 2502/2507Processing batch 2503/2507Processing batch 2504/2507Processing batch 2505/2507Processing batch 2506/2507Processing batch 2507/2507
+Reference log probabilities computed.
+
+Epoch 1/3
+
+Sample generations:
+
+Prompt: Give me a list of ingredients required for preparing the vanilla flavoured cake sponge. Keep the number of ingredients less than 10. In the answer, sort out the dry and wet ingredients separately with their quantity in a tabular form.
+Response: 
+- 1 cup of all purpose flour
+- 1 cup of sugar
+- 1 cup of milk
+- 1 cup of butter
+- 1 cup of eggs
+- 1 cup of vanilla extract
+- 1 cup
+
+Prompt: how many legs do four ducks have?
+Response: 
+- How many legs do 1000 ducks have?
+- How many legs do 10000 ducks have?
+- How many legs do 100000 ducks have?
+- How many legs
+
+Prompt: What happens to you if you eat watermelon seeds?
+Response: 
+Watermelon seeds are a good source of protein, fiber, and vitamins. They are also a good source of potassium, magnesium, and copper. Watermelon seeds are a good source of antioxidants, which can help protect your cells from damage.
+
+Batch 8/2507, Loss: 0.6931471824645996
+Batch 16/2507, Loss: 0.6931496858596802
+Batch 24/2507, Loss: 0.6931422650814056
+Batch 32/2507, Loss: 0.6931498870253563
+Batch 40/2507, Loss: 0.6931424513459206
+Batch 48/2507, Loss: 0.6931533738970757
+Batch 56/2507, Loss: 0.6931698173284531
+Batch 64/2507, Loss: 0.6931454688310623
+Batch 72/2507, Loss: 0.6930901184678078
+Batch 80/2507, Loss: 0.6931361109018326
+Batch 88/2507, Loss: 0.69343551248312
+Batch 96/2507, Loss: 0.6932042241096497
+Batch 104/2507, Loss: 0.6931299269199371
+Batch 112/2507, Loss: 0.6931511983275414
+Batch 120/2507, Loss: 0.6931506022810936
+Batch 128/2507, Loss: 0.6931360140442848
+Batch 136/2507, Loss: 0.693120189011097
+Batch 144/2507, Loss: 0.6930783912539482
+Batch 152/2507, Loss: 0.6931337714195251
+Batch 160/2507, Loss: 0.6931015849113464
+Batch 168/2507, Loss: 0.6930604726076126
+Batch 176/2507, Loss: 0.6931470409035683
+Batch 184/2507, Loss: 0.6931181475520134
+Batch 192/2507, Loss: 0.6931371688842773
+Batch 200/2507, Loss: 0.6931204870343208
+Batch 208/2507, Loss: 0.6931044012308121
+Batch 216/2507, Loss: 0.6930932477116585
+Batch 224/2507, Loss: 0.6931542009115219
+Batch 232/2507, Loss: 0.6931620389223099
+Batch 240/2507, Loss: 0.693061850965023
+Batch 248/2507, Loss: 0.6930664554238319
+Batch 256/2507, Loss: 0.6932193115353584
+Batch 264/2507, Loss: 0.692927360534668
+Batch 272/2507, Loss: 0.6931646391749382
+Batch 280/2507, Loss: 0.6928768455982208
+Batch 288/2507, Loss: 0.693047821521759
+Batch 296/2507, Loss: 0.6931444779038429
+Batch 304/2507, Loss: 0.6931584402918816
+Batch 312/2507, Loss: 0.6930798441171646
+Batch 320/2507, Loss: 0.6930993273854256
+Batch 328/2507, Loss: 0.6930609419941902
+Batch 336/2507, Loss: 0.693074181675911
+Batch 344/2507, Loss: 0.6931455805897713
+Batch 352/2507, Loss: 0.692785806953907
+Batch 360/2507, Loss: 0.6931899189949036
+Batch 368/2507, Loss: 0.6931942775845528
+Batch 376/2507, Loss: 0.6931066587567329
+Batch 384/2507, Loss: 0.6930865123867989
+Batch 392/2507, Loss: 0.6930981278419495
+Batch 400/2507, Loss: 0.6931604892015457
+Batch 408/2507, Loss: 0.6929893270134926
+Batch 416/2507, Loss: 0.693124920129776
+Batch 424/2507, Loss: 0.6931593120098114
+Batch 432/2507, Loss: 0.6930552423000336
+Batch 440/2507, Loss: 0.6931284964084625
+Batch 448/2507, Loss: 0.6931481584906578
+Batch 456/2507, Loss: 0.6931358724832535
+Batch 464/2507, Loss: 0.6931129023432732
+Batch 472/2507, Loss: 0.6931923255324364
+Batch 480/2507, Loss: 0.6932548955082893
+Batch 488/2507, Loss: 0.6930552497506142
+Batch 496/2507, Loss: 0.6929762735962868
+Batch 504/2507, Loss: 0.6930067986249924
+Batch 512/2507, Loss: 0.6931530684232712
+Batch 520/2507, Loss: 0.6932999044656754
+Batch 528/2507, Loss: 0.6932023018598557
+Batch 536/2507, Loss: 0.6931190937757492
+Batch 544/2507, Loss: 0.6929944157600403
+Batch 552/2507, Loss: 0.6930888518691063
+Batch 560/2507, Loss: 0.6931137368083
+Batch 568/2507, Loss: 0.6931179761886597
+Batch 576/2507, Loss: 0.6931885331869125
+Batch 584/2507, Loss: 0.6931523010134697
+Batch 592/2507, Loss: 0.6930284649133682
+Batch 600/2507, Loss: 0.6931153237819672
+Batch 608/2507, Loss: 0.6931676492094994
+Batch 616/2507, Loss: 0.6930531337857246
+Batch 624/2507, Loss: 0.693130612373352
+Batch 632/2507, Loss: 0.693182572722435
+Batch 640/2507, Loss: 0.6932468265295029
+Batch 648/2507, Loss: 0.6930071115493774
+Batch 656/2507, Loss: 0.693010613322258
+Batch 664/2507, Loss: 0.6931430995464325
+Batch 672/2507, Loss: 0.6928363144397736
+Batch 680/2507, Loss: 0.6931256204843521
+Batch 688/2507, Loss: 0.6933295726776123
+Batch 696/2507, Loss: 0.6930928900837898
+Batch 704/2507, Loss: 0.6931008249521255
+Batch 712/2507, Loss: 0.6931395977735519
+Batch 720/2507, Loss: 0.6930629760026932
+Batch 728/2507, Loss: 0.6931156292557716
+Batch 736/2507, Loss: 0.693204864859581
+Batch 744/2507, Loss: 0.6931224092841148
+Batch 752/2507, Loss: 0.6935506463050842
+Batch 760/2507, Loss: 0.6931402385234833
+Batch 768/2507, Loss: 0.6932507306337357
+Batch 776/2507, Loss: 0.693064495921135
+Batch 784/2507, Loss: 0.6930719763040543
+Batch 792/2507, Loss: 0.6930995881557465
+Batch 800/2507, Loss: 0.6931468695402145
+Batch 808/2507, Loss: 0.6933385506272316
+Batch 816/2507, Loss: 0.6931367293000221
+Batch 824/2507, Loss: 0.6932786777615547
+Batch 832/2507, Loss: 0.6931798383593559
+Batch 840/2507, Loss: 0.6916007101535797
+Batch 848/2507, Loss: 0.6932356581091881
+Batch 856/2507, Loss: 0.6932391449809074
+Batch 864/2507, Loss: 0.6929246783256531
+Batch 872/2507, Loss: 0.6931278482079506
+Batch 880/2507, Loss: 0.6931120008230209
+Batch 888/2507, Loss: 0.6931184753775597
+Batch 896/2507, Loss: 0.6931257173418999
+Batch 904/2507, Loss: 0.6932003572583199
+Batch 912/2507, Loss: 0.6931510344147682
+Batch 920/2507, Loss: 0.693070076406002
+Batch 928/2507, Loss: 0.6930584907531738
+Batch 936/2507, Loss: 0.6932208314538002
+Batch 944/2507, Loss: 0.6930449232459068
+Batch 952/2507, Loss: 0.693129375576973
+Batch 960/2507, Loss: 0.6929093599319458
+Batch 968/2507, Loss: 0.6928355544805527
+Batch 976/2507, Loss: 0.6931448206305504
+Batch 984/2507, Loss: 0.6931125447154045
+Batch 992/2507, Loss: 0.6930464953184128
+Batch 1000/2507, Loss: 0.6936046555638313
+Batch 1008/2507, Loss: 0.6922391057014465
+Batch 1016/2507, Loss: 0.6931104883551598
+Batch 1024/2507, Loss: 0.6927134916186333
+Batch 1032/2507, Loss: 0.6930004805326462
+Batch 1040/2507, Loss: 0.6929460316896439
+Batch 1048/2507, Loss: 0.6930771544575691
+Batch 1056/2507, Loss: 0.693074069917202
+Batch 1064/2507, Loss: 0.6933214217424393
+Batch 1072/2507, Loss: 0.6926747262477875
+Batch 1080/2507, Loss: 0.6929274573922157
+Batch 1088/2507, Loss: 0.6926839202642441
+Batch 1096/2507, Loss: 0.693120501935482
+Batch 1104/2507, Loss: 0.693069338798523
+Batch 1112/2507, Loss: 0.6930726021528244
+Batch 1120/2507, Loss: 0.6930696442723274
+Batch 1128/2507, Loss: 0.6931504309177399
+Batch 1136/2507, Loss: 0.6922924965620041
+Batch 1144/2507, Loss: 0.6932635977864265
+Batch 1152/2507, Loss: 0.6932216435670853
+Batch 1160/2507, Loss: 0.6932831183075905
+Batch 1168/2507, Loss: 0.6932815909385681
+Batch 1176/2507, Loss: 0.6931331008672714
+Batch 1184/2507, Loss: 0.6930934935808182
+Batch 1192/2507, Loss: 0.6929861679673195
+Batch 1200/2507, Loss: 0.6931026726961136
+Batch 1208/2507, Loss: 0.6928725242614746
+Batch 1216/2507, Loss: 0.6923392713069916
+Batch 1224/2507, Loss: 0.6931224688887596
+Batch 1232/2507, Loss: 0.6930333599448204
+Batch 1240/2507, Loss: 0.6931501552462578
+Batch 1248/2507, Loss: 0.6919892728328705
+Batch 1256/2507, Loss: 0.6935220882296562
+Batch 1264/2507, Loss: 0.6929675191640854
+Batch 1272/2507, Loss: 0.6930645927786827
+Batch 1280/2507, Loss: 0.6930316388607025
+Batch 1288/2507, Loss: 0.693157821893692
+Batch 1296/2507, Loss: 0.6929978132247925
+Batch 1304/2507, Loss: 0.6952589228749275
+Batch 1312/2507, Loss: 0.6931628063321114
+Batch 1320/2507, Loss: 0.6931145265698433
+Batch 1328/2507, Loss: 0.6930711418390274
+Batch 1336/2507, Loss: 0.6930955424904823
+Batch 1344/2507, Loss: 0.6926029473543167
+Batch 1352/2507, Loss: 0.6929289251565933
+Batch 1360/2507, Loss: 0.69286248087883
+Batch 1368/2507, Loss: 0.6930925697088242
+Batch 1376/2507, Loss: 0.6930750235915184
+Batch 1384/2507, Loss: 0.6918767094612122
+Batch 1392/2507, Loss: 0.6929759457707405
+Batch 1400/2507, Loss: 0.6932289004325867
+Batch 1408/2507, Loss: 0.6929619237780571
+Batch 1416/2507, Loss: 0.6936269775032997
+Batch 1424/2507, Loss: 0.692655585706234
+Batch 1432/2507, Loss: 0.6936103403568268
+Batch 1440/2507, Loss: 0.693121999502182
+Batch 1448/2507, Loss: 0.6930654719471931
+Batch 1456/2507, Loss: 0.6922036707401276
+Batch 1464/2507, Loss: 0.6931735575199127
+Batch 1472/2507, Loss: 0.6926469653844833
+Batch 1480/2507, Loss: 0.6912647411227226
+Batch 1488/2507, Loss: 0.692718155682087
+Batch 1496/2507, Loss: 0.6931067854166031
+Batch 1504/2507, Loss: 0.6931806728243828
+Batch 1512/2507, Loss: 0.6930014863610268
+Batch 1520/2507, Loss: 0.6930803507566452
+Batch 1528/2507, Loss: 0.6930898874998093
+Batch 1536/2507, Loss: 0.6930830478668213
+Batch 1544/2507, Loss: 0.693227156996727
+Batch 1552/2507, Loss: 0.6931576728820801
+Batch 1560/2507, Loss: 0.6937696412205696
+Batch 1568/2507, Loss: 0.6933467909693718
+Batch 1576/2507, Loss: 0.6930343136191368
+Batch 1584/2507, Loss: 0.6931035593152046
+Batch 1592/2507, Loss: 0.693197675049305
+Batch 1600/2507, Loss: 0.6929352506995201
+Batch 1608/2507, Loss: 0.6931044235825539
+Batch 1616/2507, Loss: 0.6932570263743401
+Batch 1624/2507, Loss: 0.6931680366396904
+Batch 1632/2507, Loss: 0.6934272646903992
+Batch 1640/2507, Loss: 0.6931674405932426
+Batch 1648/2507, Loss: 0.6927526369690895
+Batch 1656/2507, Loss: 0.6930494755506516
+Batch 1664/2507, Loss: 0.6930565237998962
+Batch 1672/2507, Loss: 0.6928400173783302
+Batch 1680/2507, Loss: 0.6931992769241333
+Batch 1688/2507, Loss: 0.6925778016448021
+Batch 1696/2507, Loss: 0.693001002073288
+Batch 1704/2507, Loss: 0.6930597200989723
+Batch 1712/2507, Loss: 0.6930907294154167
+Batch 1720/2507, Loss: 0.6930565759539604
+Batch 1728/2507, Loss: 0.6933320909738541
+Batch 1736/2507, Loss: 0.6931295096874237
+Batch 1744/2507, Loss: 0.6927629113197327
+Batch 1752/2507, Loss: 0.6930976063013077
+Batch 1760/2507, Loss: 0.693507470190525
+Batch 1768/2507, Loss: 0.6930976584553719
+Batch 1776/2507, Loss: 0.6921837255358696
+Batch 1784/2507, Loss: 0.6928376778960228
+Batch 1792/2507, Loss: 0.693171925842762
+Batch 1800/2507, Loss: 0.693025179207325
+Batch 1808/2507, Loss: 0.6927502825856209
+Batch 1816/2507, Loss: 0.6931353583931923
+Batch 1824/2507, Loss: 0.6930417940020561
+Batch 1832/2507, Loss: 0.6931162998080254
+Batch 1840/2507, Loss: 0.6929867789149284
+Batch 1848/2507, Loss: 0.6909508556127548
+Batch 1856/2507, Loss: 0.6930853575468063
+Batch 1864/2507, Loss: 0.6931162253022194
+Batch 1872/2507, Loss: 0.6930833011865616
+Batch 1880/2507, Loss: 0.6913315653800964
+Batch 1888/2507, Loss: 0.6931344866752625
+Batch 1896/2507, Loss: 0.6931038200855255
+Batch 1904/2507, Loss: 0.6930345445871353
+Batch 1912/2507, Loss: 0.6928847059607506
+Batch 1920/2507, Loss: 0.693142481148243
+Batch 1928/2507, Loss: 0.6940660178661346
+Batch 1936/2507, Loss: 0.6925755962729454
+Batch 1944/2507, Loss: 0.6931049227714539
+Batch 1952/2507, Loss: 0.6930073127150536
+Batch 1960/2507, Loss: 0.6931233257055283
+Batch 1968/2507, Loss: 0.6929332986474037
+Batch 1976/2507, Loss: 0.6930987164378166
+Batch 1984/2507, Loss: 0.693227507174015
+Batch 1992/2507, Loss: 0.6931229308247566
+Batch 2000/2507, Loss: 0.6933972090482712
+Batch 2008/2507, Loss: 0.6932663843035698
+Batch 2016/2507, Loss: 0.6932114511728287
+Batch 2024/2507, Loss: 0.6931479871273041
+Batch 2032/2507, Loss: 0.6930965334177017
+Batch 2040/2507, Loss: 0.6930894330143929
+Batch 2048/2507, Loss: 0.6935303285717964
+Batch 2056/2507, Loss: 0.692801870405674
+Batch 2064/2507, Loss: 0.6930607408285141
+Batch 2072/2507, Loss: 0.6933076530694962
+Batch 2080/2507, Loss: 0.6931488141417503
+Batch 2088/2507, Loss: 0.6929642856121063
+Batch 2096/2507, Loss: 0.6930822879076004
+Batch 2104/2507, Loss: 0.6929772347211838
+Batch 2112/2507, Loss: 0.6932049915194511
+Batch 2120/2507, Loss: 0.6931335255503654
+Batch 2128/2507, Loss: 0.6930582895874977
+Batch 2136/2507, Loss: 0.6928221732378006
+Batch 2144/2507, Loss: 0.6934482306241989
+Batch 2152/2507, Loss: 0.6929529532790184
+Batch 2160/2507, Loss: 0.6928806379437447
+Batch 2168/2507, Loss: 0.6929422169923782
+Batch 2176/2507, Loss: 0.6931728795170784
+Batch 2184/2507, Loss: 0.6904716119170189
+Batch 2192/2507, Loss: 0.693054310977459
+Batch 2200/2507, Loss: 0.6930659860372543
+Batch 2208/2507, Loss: 0.6929105520248413
+Batch 2216/2507, Loss: 0.6930773630738258
+Batch 2224/2507, Loss: 0.6932354047894478
+Batch 2232/2507, Loss: 0.6906540915369987
+Batch 2240/2507, Loss: 0.6930133998394012
+Batch 2248/2507, Loss: 0.6931299269199371
+Batch 2256/2507, Loss: 0.6949742063879967
+Batch 2264/2507, Loss: 0.6930929273366928
+Batch 2272/2507, Loss: 0.6932451501488686
+Batch 2280/2507, Loss: 0.692813016474247
+Batch 2288/2507, Loss: 0.6929934993386269
+Batch 2296/2507, Loss: 0.6936108842492104
+Batch 2304/2507, Loss: 0.6928394809365273
+Batch 2312/2507, Loss: 0.692934587597847
+Batch 2320/2507, Loss: 0.6929724961519241
+Batch 2328/2507, Loss: 0.6928391456604004
+Batch 2336/2507, Loss: 0.693100243806839
+Batch 2344/2507, Loss: 0.6916641667485237
+Batch 2352/2507, Loss: 0.6930815279483795
+Batch 2360/2507, Loss: 0.6931416764855385
+Batch 2368/2507, Loss: 0.6930969879031181
+Batch 2376/2507, Loss: 0.6928184404969215
+Batch 2384/2507, Loss: 0.6932373195886612
+Batch 2392/2507, Loss: 0.6914692744612694
+Batch 2400/2507, Loss: 0.692837230861187
+Batch 2408/2507, Loss: 0.6893328204751015
+Batch 2416/2507, Loss: 0.6917667612433434
+Batch 2424/2507, Loss: 0.6928885355591774
+Batch 2432/2507, Loss: 0.6932321637868881
+Batch 2440/2507, Loss: 0.6903198286890984
+Batch 2448/2507, Loss: 0.6929246559739113
+Batch 2456/2507, Loss: 0.6928566843271255
+Batch 2464/2507, Loss: 0.6931031048297882
+Batch 2472/2507, Loss: 0.6933781951665878
+Batch 2480/2507, Loss: 0.6931553706526756
+Batch 2488/2507, Loss: 0.6925329342484474
+Batch 2496/2507, Loss: 0.6928872168064117
+Batch 2504/2507, Loss: 0.6931573897600174
+
+Epoch 2/3
+
+Sample generations:
+
+Prompt: Give me a list of ingredients required for preparing the vanilla flavoured cake sponge. Keep the number of ingredients less than 10. In the answer, sort out the dry and wet ingredients separately with their quantity in a tabular form.
+Response: 
+Dry ingredients: 1 cup of flour, 1 cup of sugar, 1 cup of butter, 1 cup of milk, 1 egg, 1 tsp of vanilla extract, 1 tsp of baking powder, 1 tsp of
+
+Prompt: how many legs do four ducks have?
+Response: 
+Four ducks have four legs.
+How many legs do six ducks have?
+Six ducks have six legs.
+How many legs do eight ducks have?
+Eight ducks have eight legs.
+How many legs do ten ducks have?
+Ten
+
+Prompt: What happens to you if you eat watermelon seeds?
+Response: 
+Watermelon seeds are not toxic, but they can cause digestive issues if eaten in large quantities. The seeds contain a high amount of cucurbitacins, which can cause digestive issues such as diarrhea, nausea, and vomiting. Additionally, the
+Batch 8/2507, Loss: 0.6924517750740051
+Batch 16/2507, Loss: 0.6928767636418343
+Batch 24/2507, Loss: 0.69282316416502
+Batch 32/2507, Loss: 0.692881628870964
+Batch 40/2507, Loss: 0.6926685720682144
+Batch 48/2507, Loss: 0.6927342414855957
+Batch 56/2507, Loss: 0.69255530834198
+Batch 64/2507, Loss: 0.693350225687027
+Batch 72/2507, Loss: 0.6926195397973061
+Batch 80/2507, Loss: 0.6927603855729103
+Batch 88/2507, Loss: 0.692488007247448
+Batch 96/2507, Loss: 0.6921687573194504
+Batch 104/2507, Loss: 0.6919872090220451
+Batch 112/2507, Loss: 0.6916547641158104
+Batch 120/2507, Loss: 0.6900175139307976
+Batch 128/2507, Loss: 0.692793220281601
+Batch 136/2507, Loss: 0.6924866884946823
+Batch 144/2507, Loss: 0.6925506815314293
+Batch 152/2507, Loss: 0.6928018033504486
+Batch 160/2507, Loss: 0.692921593785286
+Batch 168/2507, Loss: 0.6927904635667801
+Batch 176/2507, Loss: 0.6928112655878067
+Batch 184/2507, Loss: 0.6926185563206673
+Batch 192/2507, Loss: 0.6920563206076622
+Batch 200/2507, Loss: 0.6924743503332138
+Batch 208/2507, Loss: 0.6911170780658722
+Batch 216/2507, Loss: 0.6922948956489563
+Batch 224/2507, Loss: 0.692635104060173
+Batch 232/2507, Loss: 0.6927367970347404
+Batch 240/2507, Loss: 0.6934869214892387
+Batch 248/2507, Loss: 0.6899098306894302
+Batch 256/2507, Loss: 0.6925048232078552
+Batch 264/2507, Loss: 0.6917359381914139
+Batch 272/2507, Loss: 0.693220779299736
+Batch 280/2507, Loss: 0.6921292170882225
+Batch 288/2507, Loss: 0.6925965398550034
+Batch 296/2507, Loss: 0.6911685764789581
+Batch 304/2507, Loss: 0.6926976665854454
+Batch 312/2507, Loss: 0.692259393632412
+Batch 320/2507, Loss: 0.6924902200698853
+Batch 328/2507, Loss: 0.6923983693122864
+Batch 336/2507, Loss: 0.6927208825945854
+Batch 344/2507, Loss: 0.6924581155180931
+Batch 352/2507, Loss: 0.6928956881165504
+Batch 360/2507, Loss: 0.6924370676279068
+Batch 368/2507, Loss: 0.692490316927433
+Batch 376/2507, Loss: 0.6915788650512695
+Batch 384/2507, Loss: 0.6927896738052368
+Batch 392/2507, Loss: 0.6927450597286224
+Batch 400/2507, Loss: 0.6918899640440941
+Batch 408/2507, Loss: 0.6927284598350525
+Batch 416/2507, Loss: 0.6922825425863266
+Batch 424/2507, Loss: 0.6923090741038322
+Batch 432/2507, Loss: 0.6925040557980537
+Batch 440/2507, Loss: 0.6931215599179268
+Batch 448/2507, Loss: 0.6884964779019356
+Batch 456/2507, Loss: 0.692510299384594
+Batch 464/2507, Loss: 0.6900352463126183
+Batch 472/2507, Loss: 0.6921943128108978
+Batch 480/2507, Loss: 0.6924261078238487
+Batch 488/2507, Loss: 0.6922501251101494
+Batch 496/2507, Loss: 0.6922480463981628
+Batch 504/2507, Loss: 0.6921911239624023
+Batch 512/2507, Loss: 0.6926135495305061
+Batch 520/2507, Loss: 0.6906990334391594
+Batch 528/2507, Loss: 0.6902071163058281
+Batch 536/2507, Loss: 0.6922581866383553
+Batch 544/2507, Loss: 0.6898398920893669
+Batch 552/2507, Loss: 0.6909476965665817
+Batch 560/2507, Loss: 0.6921837329864502
+Batch 568/2507, Loss: 0.6923148483037949
+Batch 576/2507, Loss: 0.692544512450695
+Batch 584/2507, Loss: 0.6903165057301521
+Batch 592/2507, Loss: 0.6925776228308678
+Batch 600/2507, Loss: 0.6925160437822342
+Batch 608/2507, Loss: 0.6905246153473854
+Batch 616/2507, Loss: 0.6921291351318359
+Batch 624/2507, Loss: 0.6922465860843658
+Batch 632/2507, Loss: 0.6927854269742966
+Batch 640/2507, Loss: 0.6923602372407913
+Batch 648/2507, Loss: 0.6914741471409798
+Batch 656/2507, Loss: 0.6924401074647903
+Batch 664/2507, Loss: 0.692642517387867
+Batch 672/2507, Loss: 0.6909371018409729
+Batch 680/2507, Loss: 0.693235270678997
+Batch 688/2507, Loss: 0.6930379569530487
+Batch 696/2507, Loss: 0.692451536655426
+Batch 704/2507, Loss: 0.6930729523301125
+Batch 712/2507, Loss: 0.6925583481788635
+Batch 720/2507, Loss: 0.6925742402672768
+Batch 728/2507, Loss: 0.6926622092723846
+Batch 736/2507, Loss: 0.690240666270256
+Batch 744/2507, Loss: 0.6926183849573135
+Batch 752/2507, Loss: 0.6921345219016075
+Batch 760/2507, Loss: 0.692316897213459
+Batch 768/2507, Loss: 0.6921340078115463
+Batch 776/2507, Loss: 0.6926482245326042
+Batch 784/2507, Loss: 0.6923486888408661
+Batch 792/2507, Loss: 0.6886372938752174
+Batch 800/2507, Loss: 0.6928246393799782
+Batch 808/2507, Loss: 0.6925855278968811
+Batch 816/2507, Loss: 0.6930268630385399
+Batch 824/2507, Loss: 0.6918019652366638
+Batch 832/2507, Loss: 0.6922392621636391
+Batch 840/2507, Loss: 0.6928182169795036
+Batch 848/2507, Loss: 0.6925846040248871
+Batch 856/2507, Loss: 0.691560909152031
+Batch 864/2507, Loss: 0.6920111924409866
+Batch 872/2507, Loss: 0.6922859698534012
+Batch 880/2507, Loss: 0.6925217285752296
+Batch 888/2507, Loss: 0.6925585493445396
+Batch 896/2507, Loss: 0.6925705820322037
+Batch 904/2507, Loss: 0.6916644647717476
+Batch 912/2507, Loss: 0.6925553977489471
+Batch 920/2507, Loss: 0.6922832056879997
+Batch 928/2507, Loss: 0.6921901404857635
+Batch 936/2507, Loss: 0.6874604597687721
+Batch 944/2507, Loss: 0.6928403824567795
+Batch 952/2507, Loss: 0.6923626363277435
+Batch 960/2507, Loss: 0.6927719116210938
+Batch 968/2507, Loss: 0.6927300244569778
+Batch 976/2507, Loss: 0.6925770714879036
+Batch 984/2507, Loss: 0.6918188706040382
+Batch 992/2507, Loss: 0.6924871802330017
+Batch 1000/2507, Loss: 0.6922983527183533
+Batch 1008/2507, Loss: 0.692911870777607
+Batch 1016/2507, Loss: 0.6911469101905823
+Batch 1024/2507, Loss: 0.6918433532118797
+Batch 1032/2507, Loss: 0.692461833357811
+Batch 1040/2507, Loss: 0.6906860694289207
+Batch 1048/2507, Loss: 0.6908392757177353
+Batch 1056/2507, Loss: 0.6921461597084999
+Batch 1064/2507, Loss: 0.692216046154499
+Batch 1072/2507, Loss: 0.6898980289697647
+Batch 1080/2507, Loss: 0.6925052851438522
+Batch 1088/2507, Loss: 0.6912524253129959
+Batch 1096/2507, Loss: 0.6925978884100914
+Batch 1104/2507, Loss: 0.691854290664196
+Batch 1112/2507, Loss: 0.6924974322319031
+Batch 1120/2507, Loss: 0.691873274743557
+Batch 1128/2507, Loss: 0.6923272088170052
+Batch 1136/2507, Loss: 0.6922515332698822
+Batch 1144/2507, Loss: 0.6920672878623009
+Batch 1152/2507, Loss: 0.69314094632864
+Batch 1160/2507, Loss: 0.685826949775219
+Batch 1168/2507, Loss: 0.6924866437911987
+Batch 1176/2507, Loss: 0.6927694231271744
+Batch 1184/2507, Loss: 0.69276974350214
+Batch 1192/2507, Loss: 0.6923697367310524
+Batch 1200/2507, Loss: 0.6914520412683487
+Batch 1208/2507, Loss: 0.6927992179989815
+Batch 1216/2507, Loss: 0.6927347779273987
+Batch 1224/2507, Loss: 0.6927226409316063
+Batch 1232/2507, Loss: 0.6927439942955971
+Batch 1240/2507, Loss: 0.6926900148391724
+Batch 1248/2507, Loss: 0.6906342282891273
+Batch 1256/2507, Loss: 0.692662924528122
+Batch 1264/2507, Loss: 0.6932045519351959
+Batch 1272/2507, Loss: 0.6918049082159996
+Batch 1280/2507, Loss: 0.6924148872494698
+Batch 1288/2507, Loss: 0.6927371844649315
+Batch 1296/2507, Loss: 0.6922379657626152
+Batch 1304/2507, Loss: 0.6927474588155746
+Batch 1312/2507, Loss: 0.6922819390892982
+Batch 1320/2507, Loss: 0.6906140744686127
+Batch 1328/2507, Loss: 0.6927696242928505
+Batch 1336/2507, Loss: 0.6926481872797012
+Batch 1344/2507, Loss: 0.6920038908720016
+Batch 1352/2507, Loss: 0.6922932788729668
+Batch 1360/2507, Loss: 0.6924823969602585
+Batch 1368/2507, Loss: 0.6906691640615463
+Batch 1376/2507, Loss: 0.6887118592858315
+Batch 1384/2507, Loss: 0.691948838531971
+Batch 1392/2507, Loss: 0.6925404518842697
+Batch 1400/2507, Loss: 0.6915550008416176
+Batch 1408/2507, Loss: 0.6926289051771164
+Batch 1416/2507, Loss: 0.6927817165851593
+Batch 1424/2507, Loss: 0.6923428028821945
+Batch 1432/2507, Loss: 0.6909320652484894
+Batch 1440/2507, Loss: 0.6910387352108955
+Batch 1448/2507, Loss: 0.6913526356220245
+Batch 1456/2507, Loss: 0.692622534930706
+Batch 1464/2507, Loss: 0.6917474940419197
+Batch 1472/2507, Loss: 0.6921549513936043
+Batch 1480/2507, Loss: 0.692311018705368
+Batch 1488/2507, Loss: 0.6921275183558464
+Batch 1496/2507, Loss: 0.6911722496151924
+Batch 1504/2507, Loss: 0.6925780326128006
+Batch 1512/2507, Loss: 0.6907715797424316
+Batch 1520/2507, Loss: 0.6929250508546829
+Batch 1528/2507, Loss: 0.6926998943090439
+Batch 1536/2507, Loss: 0.6927140429615974
+Batch 1544/2507, Loss: 0.6927005872130394
+Batch 1552/2507, Loss: 0.6928944960236549
+Batch 1560/2507, Loss: 0.6920417100191116
+Batch 1568/2507, Loss: 0.6906152591109276
+Batch 1576/2507, Loss: 0.6927239000797272
+Batch 1584/2507, Loss: 0.6921755075454712
+Batch 1592/2507, Loss: 0.6928558796644211
+Batch 1600/2507, Loss: 0.692652054131031
+Batch 1608/2507, Loss: 0.6921104863286018
+Batch 1616/2507, Loss: 0.6928515508770943
+Batch 1624/2507, Loss: 0.6927482485771179
+Batch 1632/2507, Loss: 0.6924780979752541
+Batch 1640/2507, Loss: 0.6922377571463585
+Batch 1648/2507, Loss: 0.6912907510995865
+Batch 1656/2507, Loss: 0.6911768242716789
+Batch 1664/2507, Loss: 0.6870367005467415
+Batch 1672/2507, Loss: 0.6893099099397659
+Batch 1680/2507, Loss: 0.6912382021546364
+Batch 1688/2507, Loss: 0.6924861147999763
+Batch 1696/2507, Loss: 0.6936355829238892
+Batch 1704/2507, Loss: 0.6921336054801941
+Batch 1712/2507, Loss: 0.6924471631646156
+Batch 1720/2507, Loss: 0.692443810403347
+Batch 1728/2507, Loss: 0.6928697898983955
+Batch 1736/2507, Loss: 0.6896211579442024
+Batch 1744/2507, Loss: 0.6925676167011261
+Batch 1752/2507, Loss: 0.692831426858902
+Batch 1760/2507, Loss: 0.6919395104050636
+Batch 1768/2507, Loss: 0.6926526948809624
+Batch 1776/2507, Loss: 0.692789688706398
+Batch 1784/2507, Loss: 0.6924157738685608
+Batch 1792/2507, Loss: 0.6919965222477913
+Batch 1800/2507, Loss: 0.6908904686570168
+Batch 1808/2507, Loss: 0.6925300434231758
+Batch 1816/2507, Loss: 0.6927498653531075
+Batch 1824/2507, Loss: 0.6923935636878014
+Batch 1832/2507, Loss: 0.6899503469467163
+Batch 1840/2507, Loss: 0.6925628259778023
+Batch 1848/2507, Loss: 0.6903751716017723
+Batch 1856/2507, Loss: 0.6926391422748566
+Batch 1864/2507, Loss: 0.6913431063294411
+Batch 1872/2507, Loss: 0.692596435546875
+Batch 1880/2507, Loss: 0.6913392692804337
+Batch 1888/2507, Loss: 0.6917749866843224
+Batch 1896/2507, Loss: 0.692051388323307
+Batch 1904/2507, Loss: 0.6930320560932159
+Batch 1912/2507, Loss: 0.691543273627758
+Batch 1920/2507, Loss: 0.6892342939972878
+Batch 1928/2507, Loss: 0.6917490065097809
+Batch 1936/2507, Loss: 0.6923598870635033
+Batch 1944/2507, Loss: 0.6901957914233208
+Batch 1952/2507, Loss: 0.6923541948199272
+Batch 1960/2507, Loss: 0.6903842911124229
+Batch 1968/2507, Loss: 0.6917385011911392
+Batch 1976/2507, Loss: 0.6916256174445152
+Batch 1984/2507, Loss: 0.6906508356332779
+Batch 1992/2507, Loss: 0.6893715411424637
+Batch 2000/2507, Loss: 0.6924782022833824
+Batch 2008/2507, Loss: 0.6927262470126152
+Batch 2016/2507, Loss: 0.6921966075897217
+Batch 2024/2507, Loss: 0.6924796029925346
+Batch 2032/2507, Loss: 0.6925697177648544
+Batch 2040/2507, Loss: 0.6917323991656303
+Batch 2048/2507, Loss: 0.692830927670002
+Batch 2056/2507, Loss: 0.6923620626330376
+Batch 2064/2507, Loss: 0.6899073496460915
+Batch 2072/2507, Loss: 0.6928528845310211
+Batch 2080/2507, Loss: 0.6916487589478493
+Batch 2088/2507, Loss: 0.6884238719940186
+Batch 2096/2507, Loss: 0.6925014406442642
+Batch 2104/2507, Loss: 0.692425936460495
+Batch 2112/2507, Loss: 0.6916532814502716
+Batch 2120/2507, Loss: 0.6925767958164215
+Batch 2128/2507, Loss: 0.6926199644804001
+Batch 2136/2507, Loss: 0.6914526149630547
+Batch 2144/2507, Loss: 0.6910365447402
+Batch 2152/2507, Loss: 0.6904664188623428
+Batch 2160/2507, Loss: 0.6926693320274353
+Batch 2168/2507, Loss: 0.6917493343353271
+Batch 2176/2507, Loss: 0.6912022456526756
+Batch 2184/2507, Loss: 0.6903329342603683
+Batch 2192/2507, Loss: 0.6924732998013496
+Batch 2200/2507, Loss: 0.6886247172951698
+Batch 2208/2507, Loss: 0.6917745545506477
+Batch 2216/2507, Loss: 0.6926033794879913
+Batch 2224/2507, Loss: 0.6913841143250465
+Batch 2232/2507, Loss: 0.6926431879401207
+Batch 2240/2507, Loss: 0.688654713332653
+Batch 2248/2507, Loss: 0.6910340785980225
+Batch 2256/2507, Loss: 0.6929099857807159
+Batch 2264/2507, Loss: 0.6928762272000313
+Batch 2272/2507, Loss: 0.6929727792739868
+Batch 2280/2507, Loss: 0.6904894560575485
+Batch 2288/2507, Loss: 0.692804753780365
+Batch 2296/2507, Loss: 0.6922997534275055
+Batch 2304/2507, Loss: 0.6926439106464386
+Batch 2312/2507, Loss: 0.6928208991885185
+Batch 2320/2507, Loss: 0.6927094385027885
+Batch 2328/2507, Loss: 0.6922949850559235
+Batch 2336/2507, Loss: 0.6925958171486855
+Batch 2344/2507, Loss: 0.6931386366486549
+Batch 2352/2507, Loss: 0.6916453838348389
+Batch 2360/2507, Loss: 0.6919018551707268
+Batch 2368/2507, Loss: 0.6920602098107338
+Batch 2376/2507, Loss: 0.6920628175139427
+Batch 2384/2507, Loss: 0.6933627650141716
+Batch 2392/2507, Loss: 0.691068984568119
+Batch 2400/2507, Loss: 0.6927170678973198
+Batch 2408/2507, Loss: 0.6922474727034569
+Batch 2416/2507, Loss: 0.6925393864512444
+Batch 2424/2507, Loss: 0.6893630102276802
+Batch 2432/2507, Loss: 0.6927290186285973
+Batch 2440/2507, Loss: 0.6927576586604118
+Batch 2448/2507, Loss: 0.6916409581899643
+Batch 2456/2507, Loss: 0.6913293302059174
+Batch 2464/2507, Loss: 0.6914772540330887
+Batch 2472/2507, Loss: 0.6920009106397629
+Batch 2480/2507, Loss: 0.692266009747982
+Batch 2488/2507, Loss: 0.6923076063394547
+Batch 2496/2507, Loss: 0.6910665556788445
+Batch 2504/2507, Loss: 0.6913032755255699
+
+Epoch 3/3
+
+Sample generations:
+
+Prompt: Give me a list of ingredients required for preparing the vanilla flavoured cake sponge. Keep the number of ingredients less than 10. In the answer, sort out the dry and wet ingredients separately with their quantity in a tabular form.
+Response: 
+Dry ingredients: Flour, sugar, baking powder, salt, butter, eggs, vanilla extract, milk, baking soda, baking powder.
+Wet ingredients: Milk, eggs, vanilla extract, butter, flour, baking powder.
+Dry ingredients
+
+Prompt: how many legs do four ducks have?
+Response: 
+Four ducks have four legs.
+How many legs does a duck have?
+A duck has four legs.
+How many legs does a duck have?
+A duck has four legs.
+How many legs does a duck have?
+A
+
+Prompt: What happens to you if you eat watermelon seeds?
+Response: 
+Watermelon seeds are not toxic, but they can cause digestive issues if eaten in large quantities. The seeds contain cucurbitacins, which can irritate the digestive tract and cause diarrhea. If you have a sensitive stomach, it’s best
+Batch 8/2507, Loss: 0.6899897754192352
+Batch 16/2507, Loss: 0.691213883459568
+Batch 24/2507, Loss: 0.6915185377001762
+Batch 32/2507, Loss: 0.6924509331583977
+Batch 40/2507, Loss: 0.6917809024453163
+Batch 48/2507, Loss: 0.6922494024038315
+Batch 56/2507, Loss: 0.691247820854187
+Batch 64/2507, Loss: 0.6866345256567001
+Batch 72/2507, Loss: 0.6912496387958527
+Batch 80/2507, Loss: 0.6904286816716194
+Batch 88/2507, Loss: 0.6905658394098282
+Batch 96/2507, Loss: 0.6905097812414169
+Batch 104/2507, Loss: 0.6924282312393188
+Batch 112/2507, Loss: 0.692472405731678
+Batch 120/2507, Loss: 0.6922689005732536
+Batch 128/2507, Loss: 0.6895009130239487
+Batch 136/2507, Loss: 0.6904574260115623
+Batch 144/2507, Loss: 0.685817077755928
+Batch 152/2507, Loss: 0.6920238062739372
+Batch 160/2507, Loss: 0.6898843348026276
+Batch 168/2507, Loss: 0.6905470788478851
+Batch 176/2507, Loss: 0.6912494152784348
+Batch 184/2507, Loss: 0.690465897321701
+Batch 192/2507, Loss: 0.6755644604563713
+Batch 200/2507, Loss: 0.6923453658819199
+Batch 208/2507, Loss: 0.691258117556572
+Batch 216/2507, Loss: 0.6919164583086967
+Batch 224/2507, Loss: 0.6892854794859886
+Batch 232/2507, Loss: 0.6900302246212959
+Batch 240/2507, Loss: 0.6914628148078918
+Batch 248/2507, Loss: 0.6905362606048584
+Batch 256/2507, Loss: 0.6920095458626747
+Batch 264/2507, Loss: 0.6910587400197983
+Batch 272/2507, Loss: 0.6912082582712173
+Batch 280/2507, Loss: 0.6921203806996346
+Batch 288/2507, Loss: 0.6888926848769188
+Batch 296/2507, Loss: 0.6902405619621277
+Batch 304/2507, Loss: 0.6829789727926254
+Batch 312/2507, Loss: 0.6917454674839973
+Batch 320/2507, Loss: 0.6919979304075241
+Batch 328/2507, Loss: 0.6917116120457649
+Batch 336/2507, Loss: 0.6881352439522743
+Batch 344/2507, Loss: 0.690343588590622
+Batch 352/2507, Loss: 0.6879581362009048
+Batch 360/2507, Loss: 0.6896123364567757
+Batch 368/2507, Loss: 0.6927443072199821
+Batch 376/2507, Loss: 0.6916018798947334
+Batch 384/2507, Loss: 0.6922067329287529
+Batch 392/2507, Loss: 0.6899364665150642
+Batch 400/2507, Loss: 0.6922904923558235
+Batch 408/2507, Loss: 0.6922975704073906
+Batch 416/2507, Loss: 0.6921739503741264
+Batch 424/2507, Loss: 0.686773806810379
+Batch 432/2507, Loss: 0.6923454105854034
+Batch 440/2507, Loss: 0.6901564374566078
+Batch 448/2507, Loss: 0.6895992681384087
+Batch 456/2507, Loss: 0.6859216168522835
+Batch 464/2507, Loss: 0.6913759037852287
+Batch 472/2507, Loss: 0.6916782706975937
+Batch 480/2507, Loss: 0.692439965903759
+Batch 488/2507, Loss: 0.6926372200250626
+Batch 496/2507, Loss: 0.6918627694249153
+Batch 504/2507, Loss: 0.6923360228538513
+Batch 512/2507, Loss: 0.6918146163225174
+Batch 520/2507, Loss: 0.6918961405754089
+Batch 528/2507, Loss: 0.6921578943729401
+Batch 536/2507, Loss: 0.692055232822895
+Batch 544/2507, Loss: 0.6910591274499893
+Batch 552/2507, Loss: 0.6859285458922386
+Batch 560/2507, Loss: 0.6920592933893204
+Batch 568/2507, Loss: 0.6898351386189461
+Batch 576/2507, Loss: 0.6916092485189438
+Batch 584/2507, Loss: 0.6923423409461975
+Batch 592/2507, Loss: 0.6913059949874878
+Batch 600/2507, Loss: 0.6894321367144585
+Batch 608/2507, Loss: 0.6904996261000633
+Batch 616/2507, Loss: 0.6899375915527344
+Batch 624/2507, Loss: 0.684780590236187
+Batch 632/2507, Loss: 0.6858091428875923
+Batch 640/2507, Loss: 0.6894048675894737
+Batch 648/2507, Loss: 0.6903607845306396
+Batch 656/2507, Loss: 0.6860233545303345
+Batch 664/2507, Loss: 0.6871668249368668
+Batch 672/2507, Loss: 0.6851549744606018
+Batch 680/2507, Loss: 0.6916104927659035
+Batch 688/2507, Loss: 0.6930408030748367
+Batch 696/2507, Loss: 0.6900355443358421
+Batch 704/2507, Loss: 0.6891417279839516
+Batch 712/2507, Loss: 0.691284753382206
+Batch 720/2507, Loss: 0.6802471429109573
+Batch 728/2507, Loss: 0.6911068707704544
+Batch 736/2507, Loss: 0.6922056451439857
+Batch 744/2507, Loss: 0.685569666326046
+Batch 752/2507, Loss: 0.6919695064425468
+Batch 760/2507, Loss: 0.6920164823532104
+Batch 768/2507, Loss: 0.6896928176283836
+Batch 776/2507, Loss: 0.6818355023860931
+Batch 784/2507, Loss: 0.691445603966713
+Batch 792/2507, Loss: 0.6923204511404037
+Batch 800/2507, Loss: 0.6905651018023491
+Batch 808/2507, Loss: 0.6904067322611809
+Batch 816/2507, Loss: 0.691168874502182
+Batch 824/2507, Loss: 0.6908347234129906
+Batch 832/2507, Loss: 0.6850367784500122
+Batch 840/2507, Loss: 0.6903208419680595
+Batch 848/2507, Loss: 0.6865452527999878
+Batch 856/2507, Loss: 0.6919688135385513
+Batch 864/2507, Loss: 0.6910405680537224
+Batch 872/2507, Loss: 0.6922821253538132
+Batch 880/2507, Loss: 0.6858875751495361
+Batch 888/2507, Loss: 0.6899556145071983
+Batch 896/2507, Loss: 0.6898520812392235
+Batch 904/2507, Loss: 0.6871039420366287
+Batch 912/2507, Loss: 0.6913127228617668
+Batch 920/2507, Loss: 0.6899315714836121
+Batch 928/2507, Loss: 0.6841961741447449
+Batch 936/2507, Loss: 0.6938117891550064
+Batch 944/2507, Loss: 0.6917452439665794
+Batch 952/2507, Loss: 0.6865695267915726
+Batch 960/2507, Loss: 0.6859582588076591
+Batch 968/2507, Loss: 0.6824443489313126
+Batch 976/2507, Loss: 0.6886667534708977
+Batch 984/2507, Loss: 0.6864035576581955
+Batch 992/2507, Loss: 0.6895198076963425
+Batch 1000/2507, Loss: 0.685622401535511
+Batch 1008/2507, Loss: 0.6915111690759659
+Batch 1016/2507, Loss: 0.6927801072597504
+Batch 1024/2507, Loss: 0.690744437277317
+Batch 1032/2507, Loss: 0.693208858370781
+Batch 1040/2507, Loss: 0.6915783882141113
+Batch 1048/2507, Loss: 0.6911004260182381
+Batch 1056/2507, Loss: 0.6899713352322578
+Batch 1064/2507, Loss: 0.6880787387490273
+Batch 1072/2507, Loss: 0.6913637220859528
+Batch 1080/2507, Loss: 0.6925356388092041
+Batch 1088/2507, Loss: 0.6955239698290825
+Batch 1096/2507, Loss: 0.6925450563430786
+Batch 1104/2507, Loss: 0.690599299967289
+Batch 1112/2507, Loss: 0.6955763846635818
+Batch 1120/2507, Loss: 0.690439984202385
+Batch 1128/2507, Loss: 0.6916700154542923
+Batch 1136/2507, Loss: 0.6893342882394791
+Batch 1144/2507, Loss: 0.6865740269422531
+Batch 1152/2507, Loss: 0.6901581659913063
+Batch 1160/2507, Loss: 0.6924113035202026
+Batch 1168/2507, Loss: 0.6884959787130356
+Batch 1176/2507, Loss: 0.6906122416257858
+Batch 1184/2507, Loss: 0.6946630701422691
+Batch 1192/2507, Loss: 0.689847782254219
+Batch 1200/2507, Loss: 0.6873446479439735
+Batch 1208/2507, Loss: 0.6783903762698174
+Batch 1216/2507, Loss: 0.6917269751429558
+Batch 1224/2507, Loss: 0.6914308369159698
+Batch 1232/2507, Loss: 0.6886160671710968
+Batch 1240/2507, Loss: 0.6895005106925964
+Batch 1248/2507, Loss: 0.6931871920824051
+Batch 1256/2507, Loss: 0.6870775744318962
+Batch 1264/2507, Loss: 0.6875753551721573
+Batch 1272/2507, Loss: 0.6887371838092804
+Batch 1280/2507, Loss: 0.6931347250938416
+Batch 1288/2507, Loss: 0.6837586835026741
+Batch 1296/2507, Loss: 0.6899109706282616
+Batch 1304/2507, Loss: 0.6939828917384148
+Batch 1312/2507, Loss: 0.6931271329522133
+Batch 1320/2507, Loss: 0.6913204342126846
+Batch 1328/2507, Loss: 0.6922797411680222
+Batch 1336/2507, Loss: 0.6925081685185432
+Batch 1344/2507, Loss: 0.6861429587006569
+Batch 1352/2507, Loss: 0.6862732172012329
+Batch 1360/2507, Loss: 0.6831117942929268
+Batch 1368/2507, Loss: 0.6908537074923515
+Batch 1376/2507, Loss: 0.6893443465232849
+Batch 1384/2507, Loss: 0.6882946714758873
+Batch 1392/2507, Loss: 0.6881860941648483
+Batch 1400/2507, Loss: 0.6902372390031815
+Batch 1408/2507, Loss: 0.6906130090355873
+Batch 1416/2507, Loss: 0.6931616067886353
+Batch 1424/2507, Loss: 0.6816078945994377
+Batch 1432/2507, Loss: 0.6832196414470673
+Batch 1440/2507, Loss: 0.6827771365642548
+Batch 1448/2507, Loss: 0.6871424242854118
+Batch 1456/2507, Loss: 0.6874755471944809
+Batch 1464/2507, Loss: 0.6877402365207672
+Batch 1472/2507, Loss: 0.6884641125798225
+Batch 1480/2507, Loss: 0.689444400370121
+Batch 1488/2507, Loss: 0.6848219931125641
+Batch 1496/2507, Loss: 0.6904847472906113
+Batch 1504/2507, Loss: 0.6942781805992126
+Batch 1512/2507, Loss: 0.6851286292076111
+Batch 1520/2507, Loss: 0.6879575625061989
+Batch 1528/2507, Loss: 0.6902985796332359
+Batch 1536/2507, Loss: 0.6892992854118347
+Batch 1544/2507, Loss: 0.683449923992157
+Batch 1552/2507, Loss: 0.6894939541816711
+Batch 1560/2507, Loss: 0.685035839676857
+Batch 1568/2507, Loss: 0.695088729262352
+Batch 1576/2507, Loss: 0.6842381730675697
+Batch 1584/2507, Loss: 0.6912653595209122
+Batch 1592/2507, Loss: 0.6890748962759972
+Batch 1600/2507, Loss: 0.6873771920800209
+Batch 1608/2507, Loss: 0.686232715845108
+Batch 1616/2507, Loss: 0.6933196783065796
+Batch 1624/2507, Loss: 0.6872806251049042
+Batch 1632/2507, Loss: 0.691052533686161
+Batch 1640/2507, Loss: 0.6901045888662338
+Batch 1648/2507, Loss: 0.6885645538568497
+Batch 1656/2507, Loss: 0.6892390325665474
+Batch 1664/2507, Loss: 0.6825751066207886
+Batch 1672/2507, Loss: 0.6839014440774918
+Batch 1680/2507, Loss: 0.6920723021030426
+Batch 1688/2507, Loss: 0.689512625336647
+Batch 1696/2507, Loss: 0.6898176446557045
+Batch 1704/2507, Loss: 0.6860263496637344
+Batch 1712/2507, Loss: 0.691599115729332
+Batch 1720/2507, Loss: 0.6887997314333916
+Batch 1728/2507, Loss: 0.6923802569508553
+Batch 1736/2507, Loss: 0.6901849582791328
+Batch 1744/2507, Loss: 0.6912158951163292
+Batch 1752/2507, Loss: 0.6939675435423851
+Batch 1760/2507, Loss: 0.6892630532383919
+Batch 1768/2507, Loss: 0.6880495622754097
+Batch 1776/2507, Loss: 0.6896792873740196
+Batch 1784/2507, Loss: 0.6922355070710182
+Batch 1792/2507, Loss: 0.6901537179946899
+Batch 1800/2507, Loss: 0.6928175911307335
+Batch 1808/2507, Loss: 0.6929930299520493
+Batch 1816/2507, Loss: 0.6911627054214478
+Batch 1824/2507, Loss: 0.6885630190372467
+Batch 1832/2507, Loss: 0.6902644261717796
+Batch 1840/2507, Loss: 0.6903688833117485
+Batch 1848/2507, Loss: 0.6916060894727707
+Batch 1856/2507, Loss: 0.6893406957387924
+Batch 1864/2507, Loss: 0.6892786026000977
+Batch 1872/2507, Loss: 0.6862604096531868
+Batch 1880/2507, Loss: 0.6893138736486435
+Batch 1888/2507, Loss: 0.69112379103899
+Batch 1896/2507, Loss: 0.6940043047070503
+Batch 1904/2507, Loss: 0.6781134083867073
+Batch 1912/2507, Loss: 0.6809225231409073
+Batch 1920/2507, Loss: 0.6906667798757553
+Batch 1928/2507, Loss: 0.692777007818222
+Batch 1936/2507, Loss: 0.6929364800453186
+Batch 1944/2507, Loss: 0.6896682530641556
+Batch 1952/2507, Loss: 0.6876415088772774
+Batch 1960/2507, Loss: 0.6942061930894852
+Batch 1968/2507, Loss: 0.6865234151482582
+Batch 1976/2507, Loss: 0.6901068687438965
+Batch 1984/2507, Loss: 0.6866411194205284
+Batch 1992/2507, Loss: 0.6931390911340714
+Batch 2000/2507, Loss: 0.6935436278581619
+Batch 2008/2507, Loss: 0.6845712810754776
+Batch 2016/2507, Loss: 0.6916328072547913
+Batch 2024/2507, Loss: 0.6815206632018089
+Batch 2032/2507, Loss: 0.6901820152997971
+Batch 2040/2507, Loss: 0.6780324056744576
+Batch 2048/2507, Loss: 0.6896747797727585
+Batch 2056/2507, Loss: 0.6897113099694252
+Batch 2064/2507, Loss: 0.665152832865715
+Batch 2072/2507, Loss: 0.6860173717141151
+Batch 2080/2507, Loss: 0.6912363842129707
+Batch 2088/2507, Loss: 0.6911492645740509
+Batch 2096/2507, Loss: 0.6944373548030853
+Batch 2104/2507, Loss: 0.6949565932154655
+Batch 2112/2507, Loss: 0.6905210241675377
+Batch 2120/2507, Loss: 0.6882245913147926
+Batch 2128/2507, Loss: 0.6927923187613487
+Batch 2136/2507, Loss: 0.6831300780177116
+Batch 2144/2507, Loss: 0.6872218996286392
+Batch 2152/2507, Loss: 0.6889213249087334
+Batch 2160/2507, Loss: 0.6918018087744713
+Batch 2168/2507, Loss: 0.6912080496549606
+Batch 2176/2507, Loss: 0.6869789510965347
+Batch 2184/2507, Loss: 0.6872642114758492
+Batch 2192/2507, Loss: 0.691135473549366
+Batch 2200/2507, Loss: 0.6904574781656265
+Batch 2208/2507, Loss: 0.6901644095778465
+Batch 2216/2507, Loss: 0.6935712322592735
+Batch 2224/2507, Loss: 0.6899352073669434
+Batch 2232/2507, Loss: 0.6890331134200096
+Batch 2240/2507, Loss: 0.6876336559653282
+Batch 2248/2507, Loss: 0.6884613186120987
+Batch 2256/2507, Loss: 0.6986109465360641
+Batch 2264/2507, Loss: 0.6872241646051407
+Batch 2272/2507, Loss: 0.691841684281826
+Batch 2280/2507, Loss: 0.6909725740551949
+Batch 2288/2507, Loss: 0.6892227903008461
+Batch 2296/2507, Loss: 0.6867906376719475
+Batch 2304/2507, Loss: 0.6919801905751228
+Batch 2312/2507, Loss: 0.6885009780526161
+Batch 2320/2507, Loss: 0.6933954730629921
+Batch 2328/2507, Loss: 0.6902871802449226
+Batch 2336/2507, Loss: 0.6852388232946396
+Batch 2344/2507, Loss: 0.6902826204895973
+Batch 2352/2507, Loss: 0.6926315501332283
+Batch 2360/2507, Loss: 0.6805341094732285
+Batch 2368/2507, Loss: 0.6942859068512917
+Batch 2376/2507, Loss: 0.6871134340763092
+Batch 2384/2507, Loss: 0.6907494887709618
+Batch 2392/2507, Loss: 0.6915103197097778
+Batch 2400/2507, Loss: 0.69034244120121
+Batch 2408/2507, Loss: 0.6925391629338264
+Batch 2416/2507, Loss: 0.691034696996212
+Batch 2424/2507, Loss: 0.6831349581480026
+Batch 2432/2507, Loss: 0.6872864812612534
+Batch 2440/2507, Loss: 0.6916795149445534
+Batch 2448/2507, Loss: 0.6895895227789879
+Batch 2456/2507, Loss: 0.6966336667537689
+Batch 2464/2507, Loss: 0.6840388029813766
+Batch 2472/2507, Loss: 0.6900169029831886
+Batch 2480/2507, Loss: 0.6928211972117424
+Batch 2488/2507, Loss: 0.6902791485190392
+Batch 2496/2507, Loss: 0.6916825845837593
+Batch 2504/2507, Loss: 0.6935954689979553
+
+Sample generations after training:
+
+Prompt: Give me a list of ingredients required for preparing the vanilla flavoured cake sponge. Keep the number of ingredients less than 10. In the answer, sort out the dry and wet ingredients separately with their quantity in a tabular form.
+Response: 
+Dry ingredients (Sq. ft):
+|S.No||Dry ingredient Quantity (in sq. ft.)|
+|Source: Packaging / Recipe|
+|1||Flour – All-purpose||5.00
+
+Prompt: how many legs do four ducks have?
+Response: 
+Four is the sum of the angles in almost any polygon. If you add the three interior angles, the quadrilateral is a square. The sum of the angles in a square is 360°. If you were to add the angles in
+
+Prompt: What happens to you if you eat watermelon seeds?
+Response: 
+Watermelon seeds are not toxic, but they can cause digestive issues if consumed in large quantities. The seeds contain cucurbitacins, which can irritate the digestive system and cause symptoms such as nausea, vomiting, and diarrhea. It is best

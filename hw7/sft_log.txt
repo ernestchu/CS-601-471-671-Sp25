@@ -1,0 +1,475 @@
+
+Epoch 1/3
+
+Sample generations:
+
+Prompt: What are some common types of snake plants?
+
+
+Response: 
+There are several common types of snake plants, including the Sansevieria trifasciata, Sansevieria trifasciata ‘Elegans’, Sansevieria trifasciata ‘Elegans’, Sansevieria trifasci
+
+Prompt: Why might someone choose to move to Seattle?
+
+
+Response: 
+
+Bob: Well, there are many reasons. Some people love the city's culture, while others enjoy its natural beauty or the friendly locals. Plus, Seattle has a lot of great schools and opportunities for education.
+
+Alice: That makes
+
+Prompt: When was the last time aliens visited the earth?
+
+
+Response: 
+The last time aliens visited Earth was in 1977, when the Voyager 1 spacecraft flew by Jupiter and Saturn. The spacecraft was launched in 1977 and has been sending back data ever since.
+What is the
+
+Prompt: What are the benefits of living in Australia
+
+
+Response: ?
+Australia is a great place to live, work and visit. It is a multicultural country with a rich history and a vibrant culture. Australians are known for their hospitality, friendliness and openness to new experiences.
+Australia is a great place to
+
+Prompt: How would you describe the taste of coffee?
+
+
+Response: 
+- 1 What is the taste of coffee?
+- 2 What is the taste of coffee?
+- 3 What is the taste of coffee?
+- 4 What is the taste of coffee?
+- 5 What is
+Batch 9/1000, Loss: 2.2963839024305344
+Batch 18/1000, Loss: 2.284318760037422
+Batch 27/1000, Loss: 2.2775055319070816
+Batch 36/1000, Loss: 2.448531910777092
+Batch 45/1000, Loss: 2.311742216348648
+Batch 54/1000, Loss: 2.157302901148796
+Batch 63/1000, Loss: 2.338469609618187
+Batch 72/1000, Loss: 2.414081782102585
+Batch 81/1000, Loss: 2.295472040772438
+Batch 90/1000, Loss: 2.419720560312271
+Batch 99/1000, Loss: 2.516756981611252
+Batch 108/1000, Loss: 2.2121812850236893
+Batch 117/1000, Loss: 2.3977915197610855
+Batch 126/1000, Loss: 2.2292249351739883
+Batch 135/1000, Loss: 2.5245493352413177
+Batch 144/1000, Loss: 2.39041505753994
+Batch 153/1000, Loss: 2.438137322664261
+Batch 162/1000, Loss: 2.3557028025388718
+Batch 171/1000, Loss: 2.253850981593132
+Batch 180/1000, Loss: 2.4046781808137894
+Batch 189/1000, Loss: 2.0954705476760864
+Batch 198/1000, Loss: 2.414034277200699
+Batch 207/1000, Loss: 2.1985479295253754
+Batch 216/1000, Loss: 2.1925209909677505
+Batch 225/1000, Loss: 2.266549363732338
+Batch 234/1000, Loss: 2.4718187004327774
+Batch 243/1000, Loss: 2.1041271090507507
+Batch 252/1000, Loss: 2.438200756907463
+Batch 261/1000, Loss: 2.2980942130088806
+Batch 270/1000, Loss: 2.115488201379776
+Batch 279/1000, Loss: 2.558904767036438
+Batch 288/1000, Loss: 2.3560172617435455
+Batch 297/1000, Loss: 2.221841663122177
+Batch 306/1000, Loss: 2.6376197934150696
+Batch 315/1000, Loss: 2.408801406621933
+Batch 324/1000, Loss: 2.323411524295807
+Batch 333/1000, Loss: 2.3433782756328583
+Batch 342/1000, Loss: 2.430582568049431
+Batch 351/1000, Loss: 2.2402248680591583
+Batch 360/1000, Loss: 2.423859789967537
+Batch 369/1000, Loss: 2.3246802389621735
+Batch 378/1000, Loss: 2.444558873772621
+Batch 387/1000, Loss: 2.1767567098140717
+Batch 396/1000, Loss: 2.2060626745224
+Batch 405/1000, Loss: 2.428020641207695
+Batch 414/1000, Loss: 2.565747916698456
+Batch 423/1000, Loss: 2.4385042935609818
+Batch 432/1000, Loss: 2.2348091304302216
+Batch 441/1000, Loss: 2.3188814222812653
+Batch 450/1000, Loss: 2.1947008594870567
+Batch 459/1000, Loss: 2.2542814761400223
+Batch 468/1000, Loss: 2.4301977157592773
+Batch 477/1000, Loss: 2.553834170103073
+Batch 486/1000, Loss: 2.588950678706169
+Batch 495/1000, Loss: 2.371905878186226
+Batch 504/1000, Loss: 1.974073886871338
+Batch 513/1000, Loss: 2.360788404941559
+Batch 522/1000, Loss: 2.2646280974149704
+Batch 531/1000, Loss: 2.3299490362405777
+Batch 540/1000, Loss: 2.3671503365039825
+Batch 549/1000, Loss: 2.4539313167333603
+Batch 558/1000, Loss: 2.358826905488968
+Batch 567/1000, Loss: 2.5610258132219315
+Batch 576/1000, Loss: 2.5823793411254883
+Batch 585/1000, Loss: 2.490735277533531
+Batch 594/1000, Loss: 2.2014001309871674
+Batch 603/1000, Loss: 2.1729057133197784
+Batch 612/1000, Loss: 2.711342141032219
+Batch 621/1000, Loss: 2.4230781197547913
+Batch 630/1000, Loss: 2.242435857653618
+Batch 639/1000, Loss: 2.3138223588466644
+Batch 648/1000, Loss: 2.1836738735437393
+Batch 657/1000, Loss: 2.249434679746628
+Batch 666/1000, Loss: 2.209211364388466
+Batch 675/1000, Loss: 2.4099444895982742
+Batch 684/1000, Loss: 2.2715341597795486
+Batch 693/1000, Loss: 2.3572951406240463
+Batch 702/1000, Loss: 2.2506438940763474
+Batch 711/1000, Loss: 2.1077217757701874
+Batch 720/1000, Loss: 2.4347988665103912
+Batch 729/1000, Loss: 2.3091804683208466
+Batch 738/1000, Loss: 2.5234543085098267
+Batch 747/1000, Loss: 2.324272572994232
+Batch 756/1000, Loss: 2.3374467492103577
+Batch 765/1000, Loss: 2.4550146758556366
+Batch 774/1000, Loss: 2.3722812235355377
+Batch 783/1000, Loss: 2.287356451153755
+Batch 792/1000, Loss: 2.4052554965019226
+Batch 801/1000, Loss: 2.347200781106949
+Batch 810/1000, Loss: 2.23445126414299
+Batch 819/1000, Loss: 2.3823047429323196
+Batch 828/1000, Loss: 2.303888037800789
+Batch 837/1000, Loss: 2.4436399042606354
+Batch 846/1000, Loss: 2.341305047273636
+Batch 855/1000, Loss: 2.3266698867082596
+Batch 864/1000, Loss: 2.3951390087604523
+Batch 873/1000, Loss: 2.1914493292570114
+Batch 882/1000, Loss: 2.34416002035141
+Batch 891/1000, Loss: 2.367219477891922
+Batch 900/1000, Loss: 2.361016169190407
+Batch 909/1000, Loss: 2.3394845724105835
+Batch 918/1000, Loss: 2.3056685030460358
+Batch 927/1000, Loss: 2.2479862570762634
+Batch 936/1000, Loss: 2.1277870684862137
+Batch 945/1000, Loss: 2.2249458879232407
+Batch 954/1000, Loss: 2.0214922726154327
+Batch 963/1000, Loss: 2.3490136116743088
+Batch 972/1000, Loss: 2.37196484208107
+Batch 981/1000, Loss: 2.243487760424614
+Batch 990/1000, Loss: 2.2817467153072357
+Batch 999/1000, Loss: 2.269601136445999
+
+Epoch 2/3
+
+Sample generations:
+
+Prompt: What are some common types of snake plants?
+
+
+Response: 
+There are many different types of snake plants, but the most common are Sansevieria trifasciata, Sansevieria trifasciata ‘Elegans’, Sansevieria trifasciata ‘Elegans’, Sansevier
+
+Prompt: Why might someone choose to move to Seattle?
+
+
+Response: 
+
+There are many reasons why people decide to move to Seattle. Some want to experience the city's vibrant culture, delicious food scene, and beautiful natural surroundings. Others may be looking for better job opportunities or a more affordable living situation. No matter
+
+Prompt: When was the last time aliens visited the earth?
+
+
+Response: 
+The last time aliens visited Earth was in 1977, when the Voyager 1 spacecraft flew by Jupiter and Saturn. The spacecraft was launched in 1977 and has been sending back data ever since.
+What is the
+
+Prompt: What are the benefits of living in Australia
+
+
+Response: ?
+Australia is a great place to live, work and visit. It is a multicultural country with a rich history and a vibrant culture. Australians are known for their hospitality, friendliness and generosity. They are also very friendly and welcoming to visitors.
+
+Prompt: How would you describe the taste of coffee?
+
+
+Response: 
+Coffee is a complex beverage that is made from the roasted seeds of the coffee plant. It is a popular drink around the world and is enjoyed by people of all ages. Coffee has a unique flavor that can vary depending on the type of coffee
+Batch 9/1000, Loss: 2.3807807564735413
+Batch 18/1000, Loss: 2.3831811994314194
+Batch 27/1000, Loss: 2.067378416657448
+Batch 36/1000, Loss: 2.179516941308975
+Batch 45/1000, Loss: 2.147352561354637
+Batch 54/1000, Loss: 2.3476251363754272
+Batch 63/1000, Loss: 2.333514243364334
+Batch 72/1000, Loss: 2.374421998858452
+Batch 81/1000, Loss: 2.1757320314645767
+Batch 90/1000, Loss: 2.1532081067562103
+Batch 99/1000, Loss: 2.200760632753372
+Batch 108/1000, Loss: 2.581338942050934
+Batch 117/1000, Loss: 2.1710841208696365
+Batch 126/1000, Loss: 2.1939600706100464
+Batch 135/1000, Loss: 2.5017050057649612
+Batch 144/1000, Loss: 2.171610340476036
+Batch 153/1000, Loss: 2.149429127573967
+Batch 162/1000, Loss: 2.231327012181282
+Batch 171/1000, Loss: 2.3268544524908066
+Batch 180/1000, Loss: 2.202079102396965
+Batch 189/1000, Loss: 2.2456579208374023
+Batch 198/1000, Loss: 2.534640356898308
+Batch 207/1000, Loss: 2.2518901973962784
+Batch 216/1000, Loss: 2.2440475821495056
+Batch 225/1000, Loss: 2.066128045320511
+Batch 234/1000, Loss: 2.357062131166458
+Batch 243/1000, Loss: 2.1131641566753387
+Batch 252/1000, Loss: 2.2472522407770157
+Batch 261/1000, Loss: 2.5121448636054993
+Batch 270/1000, Loss: 2.283636748790741
+Batch 279/1000, Loss: 2.488905668258667
+Batch 288/1000, Loss: 2.3823835849761963
+Batch 297/1000, Loss: 2.0310817509889603
+Batch 306/1000, Loss: 2.1071415096521378
+Batch 315/1000, Loss: 2.2382231950759888
+Batch 324/1000, Loss: 2.527606353163719
+Batch 333/1000, Loss: 2.6475114226341248
+Batch 342/1000, Loss: 2.2326917946338654
+Batch 351/1000, Loss: 2.3121753484010696
+Batch 360/1000, Loss: 2.4121785908937454
+Batch 369/1000, Loss: 2.2990202605724335
+Batch 378/1000, Loss: 2.219226598739624
+Batch 387/1000, Loss: 2.1253753006458282
+Batch 396/1000, Loss: 2.2533637434244156
+Batch 405/1000, Loss: 2.2574131190776825
+Batch 414/1000, Loss: 2.253995895385742
+Batch 423/1000, Loss: 1.9682735428214073
+Batch 432/1000, Loss: 1.9847575277090073
+Batch 441/1000, Loss: 2.2819597125053406
+Batch 450/1000, Loss: 2.0899857580661774
+Batch 459/1000, Loss: 2.377394288778305
+Batch 468/1000, Loss: 2.1962512359023094
+Batch 477/1000, Loss: 2.2705328911542892
+Batch 486/1000, Loss: 2.3171008229255676
+Batch 495/1000, Loss: 2.37326879799366
+Batch 504/1000, Loss: 2.1071853935718536
+Batch 513/1000, Loss: 2.191759839653969
+Batch 522/1000, Loss: 2.304118201136589
+Batch 531/1000, Loss: 2.193707838654518
+Batch 540/1000, Loss: 2.165411040186882
+Batch 549/1000, Loss: 2.2950887829065323
+Batch 558/1000, Loss: 2.0945168882608414
+Batch 567/1000, Loss: 2.355587437748909
+Batch 576/1000, Loss: 2.2969091832637787
+Batch 585/1000, Loss: 2.1421392261981964
+Batch 594/1000, Loss: 2.2333763614296913
+Batch 603/1000, Loss: 2.339515581727028
+Batch 612/1000, Loss: 2.2313122302293777
+Batch 621/1000, Loss: 2.2137156277894974
+Batch 630/1000, Loss: 2.12043634057045
+Batch 639/1000, Loss: 2.3343034982681274
+Batch 648/1000, Loss: 2.168867312371731
+Batch 657/1000, Loss: 2.2474322766065598
+Batch 666/1000, Loss: 1.918528065085411
+Batch 675/1000, Loss: 2.071322590112686
+Batch 684/1000, Loss: 2.1080106794834137
+Batch 693/1000, Loss: 2.0342115685343742
+Batch 702/1000, Loss: 2.087690845131874
+Batch 711/1000, Loss: 2.2049461156129837
+Batch 720/1000, Loss: 2.1237903982400894
+Batch 729/1000, Loss: 2.00139944255352
+Batch 738/1000, Loss: 2.25348499417305
+Batch 747/1000, Loss: 2.1568247377872467
+Batch 756/1000, Loss: 2.6044419705867767
+Batch 765/1000, Loss: 2.5739088654518127
+Batch 774/1000, Loss: 2.331865593791008
+Batch 783/1000, Loss: 2.095886245369911
+Batch 792/1000, Loss: 2.2629826068878174
+Batch 801/1000, Loss: 2.1803117245435715
+Batch 810/1000, Loss: 2.3140005618333817
+Batch 819/1000, Loss: 2.013583093881607
+Batch 828/1000, Loss: 1.9644103199243546
+Batch 837/1000, Loss: 2.4302207082509995
+Batch 846/1000, Loss: 2.21253465116024
+Batch 855/1000, Loss: 2.089472785592079
+Batch 864/1000, Loss: 1.9740163534879684
+Batch 873/1000, Loss: 2.2099195569753647
+Batch 882/1000, Loss: 2.360975533723831
+Batch 891/1000, Loss: 2.021894335746765
+Batch 900/1000, Loss: 2.2691985964775085
+Batch 909/1000, Loss: 1.8751635253429413
+Batch 918/1000, Loss: 2.247156322002411
+Batch 927/1000, Loss: 2.1134253293275833
+Batch 936/1000, Loss: 2.20890149474144
+Batch 945/1000, Loss: 2.0850277841091156
+Batch 954/1000, Loss: 2.043802097439766
+Batch 963/1000, Loss: 1.9604263305664062
+Batch 972/1000, Loss: 2.1224604099988937
+Batch 981/1000, Loss: 2.1019186675548553
+Batch 990/1000, Loss: 2.4792343229055405
+Batch 999/1000, Loss: 2.2977392971515656
+
+Epoch 3/3
+
+Sample generations:
+
+Prompt: What are some common types of snake plants?
+
+
+Response: 
+There are many different types of snake plants, but the most common are Sansevieria trifasciata, Sansevieria trifasciata ‘Elegans’, Sansevieria trifasciata ‘Elegans’, Sansevier
+
+Prompt: Why might someone choose to move to Seattle?
+
+
+Response: 
+
+There are many reasons why people decide to move to Seattle. Some want to experience the city's vibrant culture, delicious food scene, and beautiful natural surroundings. Others may be looking for better job opportunities or a more affordable living situation. No matter
+
+Prompt: When was the last time aliens visited the earth?
+
+
+Response: 
+The last time aliens visited the earth was in 1994.
+What is the most likely explanation for the existence of aliens?
+The most likely explanation for the existence of aliens is that they are a form of life that has evolved
+
+Prompt: What are the benefits of living in Australia
+
+
+Response: ?
+Australia is a great place to live. It is a country that is full of opportunities and has a lot to offer. It is a country that is known for its diversity, its culture, its people, and its natural beauty. It is
+
+Prompt: How would you describe the taste of coffee?
+
+
+Response: 
+Coffee is a complex beverage that is made from the roasted seeds of the coffee plant. It is a popular drink that is enjoyed by people all over the world. Coffee has a unique taste that is often described as bitter, earthy, and slightly
+Batch 9/1000, Loss: 2.32715867459774
+Batch 18/1000, Loss: 2.39596651494503
+Batch 27/1000, Loss: 2.1622626930475235
+Batch 36/1000, Loss: 2.009270414710045
+Batch 45/1000, Loss: 2.3415650129318237
+Batch 54/1000, Loss: 2.1231180280447006
+Batch 63/1000, Loss: 2.273174524307251
+Batch 72/1000, Loss: 2.247042700648308
+Batch 81/1000, Loss: 2.042275696992874
+Batch 90/1000, Loss: 2.1195392310619354
+Batch 99/1000, Loss: 2.22337643802166
+Batch 108/1000, Loss: 2.2623971849679947
+Batch 117/1000, Loss: 2.151118278503418
+Batch 126/1000, Loss: 1.9521178305149078
+Batch 135/1000, Loss: 2.154770642518997
+Batch 144/1000, Loss: 2.447030186653137
+Batch 153/1000, Loss: 2.3302110880613327
+Batch 162/1000, Loss: 2.3407214134931564
+Batch 171/1000, Loss: 2.0747784301638603
+Batch 180/1000, Loss: 2.2319036722183228
+Batch 189/1000, Loss: 2.1620904356241226
+Batch 198/1000, Loss: 2.397782802581787
+Batch 207/1000, Loss: 2.3706858456134796
+Batch 216/1000, Loss: 2.0709022283554077
+Batch 225/1000, Loss: 2.3368595987558365
+Batch 234/1000, Loss: 2.169076129794121
+Batch 243/1000, Loss: 2.3460533171892166
+Batch 252/1000, Loss: 2.139020189642906
+Batch 261/1000, Loss: 2.062552124261856
+Batch 270/1000, Loss: 1.9842343777418137
+Batch 279/1000, Loss: 2.293076381087303
+Batch 288/1000, Loss: 2.2845955938100815
+Batch 297/1000, Loss: 2.434147447347641
+Batch 306/1000, Loss: 2.066742926836014
+Batch 315/1000, Loss: 2.265562266111374
+Batch 324/1000, Loss: 2.069835290312767
+Batch 333/1000, Loss: 2.112792268395424
+Batch 342/1000, Loss: 1.8954592198133469
+Batch 351/1000, Loss: 2.0921636894345284
+Batch 360/1000, Loss: 2.269966274499893
+Batch 369/1000, Loss: 2.217217117547989
+Batch 378/1000, Loss: 2.226928159594536
+Batch 387/1000, Loss: 2.321069061756134
+Batch 396/1000, Loss: 2.2760442346334457
+Batch 405/1000, Loss: 2.1578081399202347
+Batch 414/1000, Loss: 2.3375603035092354
+Batch 423/1000, Loss: 2.2691113650798798
+Batch 432/1000, Loss: 2.342770904302597
+Batch 441/1000, Loss: 2.064571365714073
+Batch 450/1000, Loss: 2.283261939883232
+Batch 459/1000, Loss: 2.271112635731697
+Batch 468/1000, Loss: 2.0974205136299133
+Batch 477/1000, Loss: 2.3185843527317047
+Batch 486/1000, Loss: 2.1943030804395676
+Batch 495/1000, Loss: 2.1853702813386917
+Batch 504/1000, Loss: 2.0462621599435806
+Batch 513/1000, Loss: 1.9435637146234512
+Batch 522/1000, Loss: 2.0747010707855225
+Batch 531/1000, Loss: 2.4376065731048584
+Batch 540/1000, Loss: 1.9305458888411522
+Batch 549/1000, Loss: 2.053420752286911
+Batch 558/1000, Loss: 2.069329485297203
+Batch 567/1000, Loss: 2.099475473165512
+Batch 576/1000, Loss: 2.20637446641922
+Batch 585/1000, Loss: 1.895234376192093
+Batch 594/1000, Loss: 2.314496263861656
+Batch 603/1000, Loss: 2.2876843959093094
+Batch 612/1000, Loss: 2.1693393290042877
+Batch 621/1000, Loss: 2.062744528055191
+Batch 630/1000, Loss: 1.8739793598651886
+Batch 639/1000, Loss: 2.0400848537683487
+Batch 648/1000, Loss: 2.3253693133592606
+Batch 657/1000, Loss: 2.1501627564430237
+Batch 666/1000, Loss: 2.016594022512436
+Batch 675/1000, Loss: 2.3983313590288162
+Batch 684/1000, Loss: 2.2866045385599136
+Batch 693/1000, Loss: 2.191937208175659
+Batch 702/1000, Loss: 2.267602100968361
+Batch 711/1000, Loss: 2.244114965200424
+Batch 720/1000, Loss: 2.2420423179864883
+Batch 729/1000, Loss: 2.0234055519104004
+Batch 738/1000, Loss: 2.0560637712478638
+Batch 747/1000, Loss: 2.297952175140381
+Batch 756/1000, Loss: 1.9078911542892456
+Batch 765/1000, Loss: 2.289574384689331
+Batch 774/1000, Loss: 1.9429780095815659
+Batch 783/1000, Loss: 2.0601945370435715
+Batch 792/1000, Loss: 1.8159657418727875
+Batch 801/1000, Loss: 2.149741515517235
+Batch 810/1000, Loss: 2.3194799423217773
+Batch 819/1000, Loss: 2.214274138212204
+Batch 828/1000, Loss: 2.072533503174782
+Batch 837/1000, Loss: 2.051723688840866
+Batch 846/1000, Loss: 2.1247111707925797
+Batch 855/1000, Loss: 2.3336467146873474
+Batch 864/1000, Loss: 2.323538511991501
+Batch 873/1000, Loss: 2.0935139656066895
+Batch 882/1000, Loss: 2.360429108142853
+Batch 891/1000, Loss: 2.179929569363594
+Batch 900/1000, Loss: 2.295092925429344
+Batch 909/1000, Loss: 2.2508313804864883
+Batch 918/1000, Loss: 2.310247913002968
+Batch 927/1000, Loss: 2.062385529279709
+Batch 936/1000, Loss: 2.064037226140499
+Batch 945/1000, Loss: 2.316880911588669
+Batch 954/1000, Loss: 2.075513705611229
+Batch 963/1000, Loss: 2.214400291442871
+Batch 972/1000, Loss: 2.402056559920311
+Batch 981/1000, Loss: 2.077751412987709
+Batch 990/1000, Loss: 2.1412502229213715
+Batch 999/1000, Loss: 2.3608478605747223
+
+Sample generations after training:
+
+Prompt: What are some common types of snake plants?
+Response: 
+There are several common types of snake plants, including the Sansevieria trifasciata, Sansevieria trifasciata ‘Pacman’, Sansevieria trifasciata ‘Pacman’, Sansevieria trifasci
+
+Prompt: Why might someone choose to move to Seattle?
+Response: 
+There are many reasons why someone might choose to move to Seattle. Some people move to Seattle because they love the city's culture and history. Others move to Seattle because they want to work in the tech industry or because they want to live in a
+
+Prompt: When was the last time aliens visited the earth?
+Response: 
+The last time aliens visited the earth was in 1994.
+What is the most likely explanation for the existence of aliens?
+The most likely explanation for the existence of aliens is that they are a form of life that has evolved
+
+Prompt: What are the benefits of living in Australia
+Response: ?
+Australia is a great place to live. It is a country that is full of opportunities and has a lot to offer. It is a country that is known for its diversity and its multiculturalism. It is a country that is known for its hospitality
+
+Prompt: How would you describe the taste of coffee?
+Response: 
+Coffee is a complex beverage that is made from the roasted seeds of the coffee plant. It is a popular drink that is enjoyed by people all over the world. Coffee has a unique taste that is often described as bitter, earthy, and slightly
+
+Fine-tuning complete. Model saved to sft_output

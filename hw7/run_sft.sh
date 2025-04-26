@@ -9,10 +9,11 @@
 #SBATCH --output=sft.out
 #SBATCH --mem=16G
 
-module load anaconda
-conda activate hw7 # activate the Python environment
+# module load anaconda
+# conda activate hw7 # activate the Python environment
 
-python3 run_sft.py --model HuggingFaceTB/SmolLM-360M \
+YOUR_SAVE_PATH=sft_output
+python3 -u run_sft.py --model HuggingFaceTB/SmolLM-360M \
     --dataset databricks/databricks-dolly-15k \
     --save_path $YOUR_SAVE_PATH \
     --batch_size 4 \

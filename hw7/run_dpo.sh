@@ -9,11 +9,11 @@
 #SBATCH --output=dpo.out
 #SBATCH --mem=16G
 
-module load anaconda
-conda activate hw7 # activate the Python environment
-
-python run_dpo.py --model $YOUR_SAVE_PATH_OF_SFT_MODEL \
+# module load anaconda
+# conda activate hw7 # activate the Python environment
+YOUR_SAVE_PATH_OF_SFT_MODEL=sft_output
+YOUR_SAVE_PATH_OF_DPO_MODEL=dpo_output
+python -u run_dpo.py --model $YOUR_SAVE_PATH_OF_SFT_MODEL \
     --dataset dogtooth/helpsteer2_binarized_filtered \
-    --epochs 2 \
     --save_path $YOUR_SAVE_PATH_OF_DPO_MODEL
 

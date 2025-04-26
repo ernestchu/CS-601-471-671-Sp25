@@ -54,10 +54,15 @@ def main():
         # Then trunctate the inputs / pad the inputs according to args.max_length
         # Name the input as "input_ids"
         # 
-        # input_ids = ...
+        input_ids = instr_tokens["input_ids"] + sep_tokens + resp_tokens["input_ids"]
+        labels = [-100] * len(instr_tokens["input_ids"]) + [-100] * len(sep_tokens) + resp_tokens["input_ids"]
+        input_ids = input_ids[:args.max_length]
+        labels = labels[:args.max_length]
+        input_ids = input_ids + [tokenizer.pad_token_id] * (args.max_length - len(input_ids))
+        labels = labels + [-100] * (args.max_length - len(labels))
 
         # TODO: Create attention mask
-        # attention_mask = ...
+        attention_mask = [1 if token_id != tokenizer.pad_token_id else 0 for token_id in input_ids]
 
         # Your code ends here.
 
@@ -84,7 +89,15 @@ def main():
             print(f"\nPrompt: {prompt}\n\n")
             # TODO: Generate a sentence using the input prompt 
             # Hint: Tokenize the prompt and then pass it to model.generate
-
+            tokenized_prompt = tokenizer(prompt, return_tensors="pt").to(device)
+            generated_ids = model.generate(
+                tokenized_prompt["input_ids"],
+                attention_mask=tokenized_prompt["attention_mask"],
+                pad_token_id=tokenizer.eos_token_id,
+                max_new_tokens=50
+            )
+            generated_text = tokenizer.decode(generated_ids[0])
+            print(f"Response: {generated_text[len(prompt):]}")
             # Your code ends here.
         
         total_loss = 0.0
@@ -96,15 +109,24 @@ def main():
             # TODO: Finish the main training loop
             # Hint: model.forward(...)
             # Make sure to divide the loss by the number of gradient accumulation steps
-            
-
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
+            loss = outputs.loss / args.gradient_accumulation
+            loss.backward()
+            total_loss += loss.item()
             # Your code ends here.
 
             if (index+1) % args.gradient_accumulation == 0:
                 # TODO: Perform gradient accumulation
-                
-            
+                optimizer.step()
+                optimizer.zero_grad()
+                print(f"Batch {index+1}/{len(dataloader)}, Loss: {total_loss}")
+                total_loss = 0.0
                 # Your code ends here.
+
+        # Handle any remaining gradients at the end of epoch
+        if total_loss > 0:
+            optimizer.step()
+            optimizer.zero_grad()
 
         
         # Optional: Saving the model checkpoint at each epoch
@@ -118,6 +140,15 @@ def main():
         prompt = sample["instruction"]
         print(f"\nPrompt: {prompt}")
         # Paste the generation code here.
+        tokenized_prompt = tokenizer(prompt, return_tensors="pt").to(device)
+        generated_ids = model.generate(
+            tokenized_prompt["input_ids"],
+            attention_mask=tokenized_prompt["attention_mask"],
+            pad_token_id=tokenizer.eos_token_id,
+            max_new_tokens=50,
+        )
+        generated_text = tokenizer.decode(generated_ids[0])
+        print(f"Response: {generated_text[len(prompt):]}")
     
 
     # Save the model and tokenizer, this allow us to use in further DPO step
